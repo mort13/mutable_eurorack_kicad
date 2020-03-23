@@ -45,3 +45,14 @@ build
 *_BETA.sch
 *_beta.brd
 *_BETA.brd
+
+# KiCad
+fp-info-cache
+*bak
+*cache*
+sym-lib-table
+*~
+fp-lib-table
+*.bck
+*.dcm
+*.zip
