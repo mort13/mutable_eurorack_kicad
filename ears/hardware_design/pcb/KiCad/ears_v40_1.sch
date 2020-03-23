@@ -1,0 +1,507 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 11774 8268
+encoding utf-8
+Sheet 2 4
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	8400 2800 8300 2800
+Wire Wire Line
+	8300 2800 8300 2900
+Text GLabel 8400 2800 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	3100 2900 3100 3000
+Wire Wire Line
+	3000 2900 3100 2900
+Text GLabel 3100 2900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	3400 3100 3400 3000
+Wire Wire Line
+	3400 3000 3700 3000
+Wire Wire Line
+	3700 3000 3700 3100
+Text GLabel 3400 3100 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	4700 3200 4700 3300
+Text GLabel 4700 3200 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	4100 3100 4100 3300
+Text GLabel 4100 3100 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	5500 1900 5600 1900
+Wire Wire Line
+	5700 2200 5500 2200
+Wire Wire Line
+	5500 2200 5500 1900
+Wire Wire Line
+	5500 2300 5500 2200
+Connection ~ 5500 2200
+Text GLabel 5500 1900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	3000 2800 3300 2800
+Wire Wire Line
+	3300 2800 3300 3100
+Wire Wire Line
+	7200 1900 7200 2300
+Wire Wire Line
+	7200 2300 7200 2600
+Wire Wire Line
+	7300 1900 7200 1900
+Wire Wire Line
+	7100 2600 7200 2600
+Wire Wire Line
+	7000 2300 7200 2300
+Wire Wire Line
+	6700 1900 7200 1900
+Wire Wire Line
+	7300 2900 7300 2600
+Wire Wire Line
+	7300 2600 7400 2600
+Wire Wire Line
+	7200 2600 7300 2600
+Connection ~ 7200 2300
+Connection ~ 7200 1900
+Connection ~ 7300 2600
+Connection ~ 7200 2600
+Text GLabel 7300 1900 2    70   BiDi ~ 0
+AMP_OUT
+Wire Wire Line
+	8300 2600 8400 2600
+Wire Wire Line
+	5200 2700 5300 2700
+Wire Wire Line
+	5300 2700 6500 2700
+Wire Wire Line
+	5200 1900 5300 1900
+Wire Wire Line
+	5300 1900 5300 2700
+Connection ~ 5300 2700
+Wire Wire Line
+	4100 2700 4100 2800
+Wire Wire Line
+	3000 2700 4100 2700
+Wire Wire Line
+	4300 2700 4100 2700
+Wire Wire Line
+	4200 2300 4100 2300
+Wire Wire Line
+	4100 2300 4100 2700
+Connection ~ 4100 2700
+Wire Wire Line
+	6500 2500 6400 2500
+Wire Wire Line
+	6400 2500 6400 2300
+Wire Wire Line
+	6400 2300 6400 2200
+Wire Wire Line
+	6400 2200 6400 2100
+Wire Wire Line
+	6100 2200 6400 2200
+Wire Wire Line
+	6700 2300 6400 2300
+Connection ~ 6400 2300
+Connection ~ 6400 2200
+Wire Wire Line
+	6000 1900 6100 1900
+Wire Wire Line
+	4800 2700 4700 2700
+Wire Wire Line
+	4700 2800 4700 2700
+Wire Wire Line
+	4600 2700 4700 2700
+Wire Wire Line
+	4600 2300 4700 2300
+Wire Wire Line
+	4700 2300 4700 2700
+Connection ~ 4700 2700
+Wire Wire Line
+	5100 2200 5100 2100
+Text GLabel 5100 2200 0    10   BiDi ~ 0
+VEE
+Wire Wire Line
+	5100 1700 5100 1600
+Text GLabel 5100 1700 0    10   BiDi ~ 0
+VCC
+Wire Wire Line
+	7700 2900 7800 2900
+Wire Wire Line
+	7800 2900 7800 2600
+Wire Wire Line
+	7800 2600 7700 2600
+Wire Wire Line
+	7800 2600 7900 2600
+Connection ~ 7800 2600
+$Comp
+L ears_v40-eagle-import:GND #GND16
+U 1 1 99D4D269
+P 3100 3100
+AR Path="/99D4D269" Ref="#GND16"  Part="1" 
+AR Path="/5E79100C/99D4D269" Ref="#GND016"  Part="1" 
+F 0 "#GND016" H 3100 3100 50  0001 C CNN
+F 1 "GND" H 3000 3000 59  0000 L BNN
+F 2 "" H 3100 3100 50  0001 C CNN
+F 3 "" H 3100 3100 50  0001 C CNN
+	1    3100 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ears_v40-eagle-import:GND #GND18
+U 1 1 E0081D19
+P 8300 3000
+AR Path="/E0081D19" Ref="#GND18"  Part="1" 
+AR Path="/5E79100C/E0081D19" Ref="#GND018"  Part="1" 
+F 0 "#GND018" H 8300 3000 50  0001 C CNN
+F 1 "GND" H 8200 2900 59  0000 L BNN
+F 2 "" H 8300 3000 50  0001 C CNN
+F 3 "" H 8300 3000 50  0001 C CNN
+	1    8300 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ears_v40-eagle-import:PJ301_THONKICONN6 J2
+U 1 1 F2D55355
+P 8600 2700
+AR Path="/F2D55355" Ref="J2"  Part="1" 
+AR Path="/5E79100C/F2D55355" Ref="J2"  Part="1" 
+F 0 "J2" H 8500 2860 59  0000 L BNN
+F 1 "PJ301_THONKICONN6" H 8600 2700 50  0001 C CNN
+F 2 "ears_v40:WQP_PJ_301M6" H 8600 2700 50  0001 C CNN
+F 3 "" H 8600 2700 50  0001 C CNN
+	1    8600 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ears_v40-eagle-import:PJ301_THONKICONN6 J1
+U 1 1 2CE6A523
+P 2800 2800
+AR Path="/2CE6A523" Ref="J1"  Part="1" 
+AR Path="/5E79100C/2CE6A523" Ref="J1"  Part="1" 
+F 0 "J1" H 2700 2960 59  0000 L BNN
+F 1 "PJ301_THONKICONN6" H 2800 2800 50  0001 C CNN
+F 2 "ears_v40:WQP_PJ_301M6" H 2800 2800 50  0001 C CNN
+F 3 "" H 2800 2800 50  0001 C CNN
+	1    2800 2800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ears_v40-eagle-import:R-US_R0402 R1
+U 1 1 9D6B0345
+P 8100 2600
+AR Path="/9D6B0345" Ref="R1"  Part="1" 
+AR Path="/5E79100C/9D6B0345" Ref="R1"  Part="1" 
+F 0 "R1" H 7950 2659 59  0000 L BNN
+F 1 "510" H 7950 2470 59  0000 L BNN
+F 2 "ears_v40:R0402" H 8100 2600 50  0001 C CNN
+F 3 "" H 8100 2600 50  0001 C CNN
+	1    8100 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ears_v40-eagle-import:R-US_R0402 R5
+U 1 1 1855BC5E
+P 4700 3000
+AR Path="/1855BC5E" Ref="R5"  Part="1" 
+AR Path="/5E79100C/1855BC5E" Ref="R5"  Part="1" 
+F 0 "R5" H 4550 3059 59  0000 L BNN
+F 1 "1.0M" H 4550 2870 59  0000 L BNN
+F 2 "ears_v40:R0402" H 4700 3000 50  0001 C CNN
+F 3 "" H 4700 3000 50  0001 C CNN
+	1    4700 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ears_v40-eagle-import:A4L-LOC #FRAME5
+U 1 1 FD6EE4A8
+P 900 6700
+AR Path="/FD6EE4A8" Ref="#FRAME5"  Part="1" 
+AR Path="/5E79100C/FD6EE4A8" Ref="#FRAME5"  Part="1" 
+F 0 "#FRAME5" H 900 6700 50  0001 C CNN
+F 1 "A4L-LOC" H 900 6700 50  0001 C CNN
+F 2 "" H 900 6700 50  0001 C CNN
+F 3 "" H 900 6700 50  0001 C CNN
+	1    900  6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ears_v40-eagle-import:M02TINY MIC
+U 1 1 9FD73AE4
+P 3400 3400
+AR Path="/9FD73AE4" Ref="MIC"  Part="1" 
+AR Path="/5E79100C/9FD73AE4" Ref="MIC1"  Part="1" 
+F 0 "MIC1" H 3300 3630 59  0000 L BNN
+F 1 "M02TINY" H 3300 3200 59  0000 L BNN
+F 2 "ears_v40:1X02_TINY" H 3400 3400 50  0001 C CNN
+F 3 "" H 3400 3400 50  0001 C CNN
+	1    3400 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ears_v40-eagle-import:GND #GND4
+U 1 1 D896219B
+P 3700 3200
+AR Path="/D896219B" Ref="#GND4"  Part="1" 
+AR Path="/5E79100C/D896219B" Ref="#GND04"  Part="1" 
+F 0 "#GND04" H 3700 3200 50  0001 C CNN
+F 1 "GND" H 3600 3100 59  0000 L BNN
+F 2 "" H 3700 3200 50  0001 C CNN
+F 3 "" H 3700 3200 50  0001 C CNN
+	1    3700 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ears_v40-eagle-import:POT_USVERTICAL_PS R7
+U 1 1 3DB810B0
+P 6400 1900
+AR Path="/3DB810B0" Ref="R7"  Part="1" 
+AR Path="/5E79100C/3DB810B0" Ref="R7"  Part="1" 
+F 0 "R7" V 6200 1800 59  0000 L BNN
+F 1 "50kB" V 6300 1800 59  0000 L BNN
+F 2 "ears_v40:ALPS_POT_VERTICAL_PS" H 6400 1900 50  0001 C CNN
+F 3 "" H 6400 1900 50  0001 C CNN
+	1    6400 1900
+	0    -1   1    0   
+$EndComp
+$Comp
+L ears_v40-eagle-import:R-US_R0402 R8
+U 1 1 650187DA
+P 5800 1900
+AR Path="/650187DA" Ref="R8"  Part="1" 
+AR Path="/5E79100C/650187DA" Ref="R8"  Part="1" 
+F 0 "R8" H 5650 1959 59  0000 L BNN
+F 1 "510" H 5650 1770 59  0000 L BNN
+F 2 "ears_v40:R0402" H 5800 1900 50  0001 C CNN
+F 3 "" H 5800 1900 50  0001 C CNN
+	1    5800 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ears_v40-eagle-import:C-USC0402 C7
+U 1 1 6C94872B
+P 6800 2300
+AR Path="/6C94872B" Ref="C7"  Part="1" 
+AR Path="/5E79100C/6C94872B" Ref="C7"  Part="1" 
+F 0 "C7" H 6840 2325 59  0000 L BNN
+F 1 "22p" H 6840 2135 59  0000 L BNN
+F 2 "ears_v40:C0402" H 6800 2300 50  0001 C CNN
+F 3 "" H 6800 2300 50  0001 C CNN
+	1    6800 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ears_v40-eagle-import:GND #GND2
+U 1 1 13A376EC
+P 4700 3400
+AR Path="/13A376EC" Ref="#GND2"  Part="1" 
+AR Path="/5E79100C/13A376EC" Ref="#GND02"  Part="1" 
+F 0 "#GND02" H 4700 3400 50  0001 C CNN
+F 1 "GND" H 4600 3300 59  0000 L BNN
+F 2 "" H 4700 3400 50  0001 C CNN
+F 3 "" H 4700 3400 50  0001 C CNN
+	1    4700 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ears_v40-eagle-import:R-US_R0402 R6
+U 1 1 96E7E6D7
+P 5900 2200
+AR Path="/96E7E6D7" Ref="R6"  Part="1" 
+AR Path="/5E79100C/96E7E6D7" Ref="R6"  Part="1" 
+F 0 "R6" H 5750 2259 59  0000 L BNN
+F 1 "10k" H 5750 2070 59  0000 L BNN
+F 2 "ears_v40:R0402" H 5900 2200 50  0001 C CNN
+F 3 "" H 5900 2200 50  0001 C CNN
+	1    5900 2200
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ears_v40-eagle-import:VEE #SUPPLY3
+U 1 1 D5692080
+P 5100 2300
+AR Path="/D5692080" Ref="#SUPPLY3"  Part="1" 
+AR Path="/5E79100C/D5692080" Ref="#SUPPLY03"  Part="1" 
+F 0 "#SUPPLY03" H 5100 2300 50  0001 C CNN
+F 1 "VEE" H 5025 2425 59  0000 L BNN
+F 2 "" H 5100 2300 50  0001 C CNN
+F 3 "" H 5100 2300 50  0001 C CNN
+	1    5100 2300
+	-1   0    0    1   
+$EndComp
+$Comp
+L ears_v40-eagle-import:VCC #P+4
+U 1 1 A7FDB2D8
+P 5100 1600
+AR Path="/A7FDB2D8" Ref="#P+4"  Part="1" 
+AR Path="/5E79100C/A7FDB2D8" Ref="#P+04"  Part="1" 
+F 0 "#P+04" H 5100 1600 50  0001 C CNN
+F 1 "VCC" H 5060 1740 59  0000 L BNN
+F 2 "" H 5100 1600 50  0001 C CNN
+F 3 "" H 5100 1600 50  0001 C CNN
+	1    5100 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ears_v40-eagle-import:R-US_R0402 R4
+U 1 1 98DC0D12
+P 5000 2700
+AR Path="/98DC0D12" Ref="R4"  Part="1" 
+AR Path="/5E79100C/98DC0D12" Ref="R4"  Part="1" 
+F 0 "R4" H 4850 2759 59  0000 L BNN
+F 1 "10k" H 4850 2570 59  0000 L BNN
+F 2 "ears_v40:R0402" H 5000 2700 50  0001 C CNN
+F 3 "" H 5000 2700 50  0001 C CNN
+	1    5000 2700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ears_v40-eagle-import:C-USC0402 C3
+U 1 1 E6364C71
+P 4100 2900
+AR Path="/E6364C71" Ref="C3"  Part="1" 
+AR Path="/5E79100C/E6364C71" Ref="C3"  Part="1" 
+F 0 "C3" H 4140 2925 59  0000 L BNN
+F 1 "68p" H 4140 2735 59  0000 L BNN
+F 2 "ears_v40:C0402" H 4100 2900 50  0001 C CNN
+F 3 "" H 4100 2900 50  0001 C CNN
+	1    4100 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ears_v40-eagle-import:GND #GND24
+U 1 1 664B2FAE
+P 4100 3400
+AR Path="/664B2FAE" Ref="#GND24"  Part="1" 
+AR Path="/5E79100C/664B2FAE" Ref="#GND024"  Part="1" 
+F 0 "#GND024" H 4100 3400 50  0001 C CNN
+F 1 "GND" H 4000 3300 59  0000 L BNN
+F 2 "" H 4100 3400 50  0001 C CNN
+F 3 "" H 4100 3400 50  0001 C CNN
+	1    4100 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ears_v40-eagle-import:GND #GND3
+U 1 1 7679BDCC
+P 5500 2400
+AR Path="/7679BDCC" Ref="#GND3"  Part="1" 
+AR Path="/5E79100C/7679BDCC" Ref="#GND03"  Part="1" 
+F 0 "#GND03" H 5500 2400 50  0001 C CNN
+F 1 "GND" H 5400 2300 59  0000 L BNN
+F 2 "" H 5500 2400 50  0001 C CNN
+F 3 "" H 5500 2400 50  0001 C CNN
+	1    5500 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ears_v40-eagle-import:C-USC0603 C5
+U 1 1 DBA0A74E
+P 4400 2700
+AR Path="/DBA0A74E" Ref="C5"  Part="1" 
+AR Path="/5E79100C/DBA0A74E" Ref="C5"  Part="1" 
+F 0 "C5" H 4440 2725 59  0000 L BNN
+F 1 "4.7u" H 4440 2535 59  0000 L BNN
+F 2 "ears_v40:C0603" H 4400 2700 50  0001 C CNN
+F 3 "" H 4400 2700 50  0001 C CNN
+	1    4400 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ears_v40-eagle-import:OPA1641 IC1
+U 2 1 06F9203B
+P 6800 2600
+AR Path="/06F9203B" Ref="IC1"  Part="2" 
+AR Path="/5E79100C/06F9203B" Ref="IC1"  Part="2" 
+F 0 "IC1" H 6900 2725 59  0000 L BNN
+F 1 "OPA1641" H 6900 2400 59  0000 L BNN
+F 2 "ears_v40:MSOP8" H 6800 2600 50  0001 C CNN
+F 3 "" H 6800 2600 50  0001 C CNN
+	2    6800 2600
+	1    0    0    1   
+$EndComp
+$Comp
+L ears_v40-eagle-import:SOLDERJUMPERNC SJ1
+U 1 1 44DD8191
+P 4400 2300
+AR Path="/44DD8191" Ref="SJ1"  Part="1" 
+AR Path="/5E79100C/44DD8191" Ref="SJ1"  Part="1" 
+F 0 "SJ1" H 4300 2400 59  0000 L BNN
+F 1 "SOLDERJUMPERNC" H 4400 2300 50  0001 C CNN
+F 2 "ears_v40:SJ_2S" H 4400 2300 50  0001 C CNN
+F 3 "" H 4400 2300 50  0001 C CNN
+	1    4400 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ears_v40-eagle-import:DIODE_2CACA-SOT23 D3
+U 1 1 54DFA47A
+P 5100 1900
+AR Path="/54DFA47A" Ref="D3"  Part="1" 
+AR Path="/5E79100C/54DFA47A" Ref="D3"  Part="1" 
+F 0 "D3" H 5130 1979 59  0000 L BNN
+F 1 "DNP" H 4910 1764 59  0000 L BNN
+F 2 "ears_v40:SOT23" H 5100 1900 50  0001 C CNN
+F 3 "" H 5100 1900 50  0001 C CNN
+	1    5100 1900
+	0    1    1    0   
+$EndComp
+$Comp
+L ears_v40-eagle-import:C-USC0603 C16
+U 1 1 C0B7EA3F
+P 7500 2600
+AR Path="/C0B7EA3F" Ref="C16"  Part="1" 
+AR Path="/5E79100C/C0B7EA3F" Ref="C16"  Part="1" 
+F 0 "C16" H 7540 2625 59  0000 L BNN
+F 1 "4.7u" H 7540 2435 59  0000 L BNN
+F 2 "ears_v40:C0603" H 7500 2600 50  0001 C CNN
+F 3 "" H 7500 2600 50  0001 C CNN
+	1    7500 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ears_v40-eagle-import:SOLDERJUMPERNC SJ2
+U 1 1 CD7571B3
+P 7500 2900
+AR Path="/CD7571B3" Ref="SJ2"  Part="1" 
+AR Path="/5E79100C/CD7571B3" Ref="SJ2"  Part="1" 
+F 0 "SJ2" H 7400 3000 59  0000 L BNN
+F 1 "SOLDERJUMPERNC" H 7500 2900 50  0001 C CNN
+F 2 "ears_v40:SJ_2S" H 7500 2900 50  0001 C CNN
+F 3 "" H 7500 2900 50  0001 C CNN
+	1    7500 2900
+	1    0    0    -1  
+$EndComp
+Text Notes 7300 5900 0    85   ~ 0
+cc-by-sa
+Text Notes 9400 5900 0    85   ~ 0
+Input amplifier
+Text Notes 6400 3800 0    59   ~ 0
+Gain: 1x (0dB) to 100x (40dB)
+Text Notes 3500 3800 0    59   ~ 0
+LPF > 500kHz
+Text Notes 4700 3800 0    59   ~ 0
+V+ protection
+Text Notes 6400 4000 0    59   ~ 0
+LPF > 300kHz
+Text Notes 3800 4000 0    59   ~ 0
+AC coupling HPF < 0.02Hz
+Text Notes 4900 1900 0    59   ~ 0
+BAT54S
+Text Notes 7300 6100 0    85   ~ 0
+Émilie Gillet
+Text Notes 7300 6300 0    85   ~ 0
+emilie.o.gillet@gmail.com
+$EndSCHEMATC
