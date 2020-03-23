@@ -2,6 +2,7 @@ Mutable Instruments' Eurorack Modules.
 
 Forked from pichenettes' version and identical except:
 - Eagle brd and sch files converted to XML (making possible import into KiCad)
+- For some modules, KiCad versions have been added
 
 * [Blinds](http://mutable-instruments.net/modules/blinds): Quad VC-polarizer.
 * [Braids](http://mutable-instruments.net/modules/braids): Macro-oscillator.
