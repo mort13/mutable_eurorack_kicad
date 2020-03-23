@@ -1,5 +1,8 @@
 Mutable Instruments' Eurorack Modules.
 
+Forked from pichenettes' version and identical except:
+- Eagle brd and sch files converted to XML (making possible import into KiCad)
+
 * [Blinds](http://mutable-instruments.net/modules/blinds): Quad VC-polarizer.
 * [Braids](http://mutable-instruments.net/modules/braids): Macro-oscillator.
 * [Branches](http://mutable-instruments.net/modules/branches): Dual Bernoulli gate.
@@ -25,6 +28,7 @@ Mutable Instruments' Eurorack Modules.
 * [Volts](http://mutable-instruments.net/modules/volts): +5V power module.
 * [Warps](http://mutable-instruments.net/modules/warps): Meta-modulator.
 * [Yarns](http://mutable-instruments.net/modules/yarns): MIDI interface.
+
 
 License
 =======
