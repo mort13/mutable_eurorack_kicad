@@ -1,0 +1,1309 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 11774 8268
+encoding utf-8
+Sheet 1 6
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	9600 2300 9600 2400
+Wire Wire Line
+	9300 2400 9600 2400
+Wire Wire Line
+	9300 2400 9300 2500
+Wire Wire Line
+	9300 2300 9300 2400
+Wire Wire Line
+	9600 2400 9900 2400
+Wire Wire Line
+	9900 2400 9900 2300
+Connection ~ 9300 2400
+Connection ~ 9600 2400
+Text GLabel 9600 2300 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	3900 1800 3900 1900
+Wire Wire Line
+	3900 1900 3900 2000
+Wire Wire Line
+	3200 1800 3800 1800
+Wire Wire Line
+	3800 1800 3900 1800
+Wire Wire Line
+	3900 1900 3800 1900
+Wire Wire Line
+	3800 1900 3200 1900
+Wire Wire Line
+	3200 2000 3800 2000
+Wire Wire Line
+	3800 2000 3900 2000
+Wire Wire Line
+	3900 2000 4200 2000
+Wire Wire Line
+	4200 2000 4200 2100
+Connection ~ 3900 1900
+Connection ~ 3900 2000
+Connection ~ 3800 2000
+Connection ~ 3800 1900
+Connection ~ 3800 1800
+Text GLabel 3900 1800 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	5500 1900 5500 2000
+Wire Wire Line
+	5500 2000 5500 2100
+Wire Wire Line
+	5500 2000 5100 2000
+Wire Wire Line
+	5100 2000 4800 2000
+Wire Wire Line
+	4800 2000 4800 2100
+Wire Wire Line
+	5500 2000 5800 2000
+Wire Wire Line
+	5800 2000 5800 2200
+Wire Wire Line
+	5100 2100 5100 2000
+Wire Wire Line
+	5100 2000 5100 1900
+Connection ~ 5500 2000
+Connection ~ 5100 2000
+Text GLabel 5500 1900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	7500 2300 7500 2400
+Wire Wire Line
+	7900 2400 7500 2400
+Wire Wire Line
+	7900 2400 7900 2500
+Wire Wire Line
+	7900 2400 7900 2300
+Wire Wire Line
+	7200 2300 7200 2400
+Wire Wire Line
+	7200 2400 7500 2400
+Connection ~ 7900 2400
+Connection ~ 7500 2400
+Text GLabel 7500 2300 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	5300 4800 5700 4800
+Wire Wire Line
+	5700 4800 5700 4900
+Text GLabel 5300 4800 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	2300 4700 2600 4700
+Wire Wire Line
+	2600 4700 3000 4700
+Wire Wire Line
+	3000 4700 3000 4600
+Wire Wire Line
+	3000 4700 3000 4800
+Wire Wire Line
+	2300 4700 2300 4800
+Wire Wire Line
+	3000 4700 3400 4700
+Wire Wire Line
+	3400 4700 3400 4800
+Wire Wire Line
+	3400 4700 3400 4600
+Wire Wire Line
+	3400 4700 3800 4700
+Wire Wire Line
+	3800 4700 3800 4800
+Wire Wire Line
+	3800 4700 3800 4600
+Wire Wire Line
+	2600 4800 2600 4700
+Wire Wire Line
+	2600 4700 2600 4600
+Connection ~ 3000 4700
+Connection ~ 3400 4700
+Connection ~ 3800 4700
+Connection ~ 2600 4700
+Text GLabel 2300 4700 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	6800 4800 7100 4800
+Wire Wire Line
+	7100 4800 7500 4800
+Wire Wire Line
+	7500 4800 7500 4700
+Wire Wire Line
+	7500 4800 7500 4900
+Wire Wire Line
+	6800 4800 6800 4900
+Wire Wire Line
+	7500 4800 7900 4800
+Wire Wire Line
+	7900 4800 7900 4900
+Wire Wire Line
+	7900 4800 7900 4700
+Wire Wire Line
+	7900 4800 8300 4800
+Wire Wire Line
+	8300 4800 8300 4900
+Wire Wire Line
+	8300 4800 8300 4700
+Wire Wire Line
+	7100 4900 7100 4800
+Wire Wire Line
+	7100 4800 7100 4700
+Connection ~ 7500 4800
+Connection ~ 7900 4800
+Connection ~ 8300 4800
+Connection ~ 7100 4800
+Text GLabel 6800 4800 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	9800 4900 10200 4900
+Wire Wire Line
+	10200 4900 10200 5000
+Text GLabel 9800 4900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	9600 1900 9300 1900
+Wire Wire Line
+	9300 1900 9300 1800
+Wire Wire Line
+	9600 1900 9600 2000
+Wire Wire Line
+	9600 1900 9900 1900
+Wire Wire Line
+	9900 1900 10000 1900
+Wire Wire Line
+	9300 2100 9300 1900
+Wire Wire Line
+	9900 2000 9900 1900
+Connection ~ 9600 1900
+Connection ~ 9300 1900
+Connection ~ 9900 1900
+Text GLabel 10000 1900 2    70   BiDi ~ 0
+AREF_-2.5
+Wire Wire Line
+	9300 1400 9300 1300
+Text Label 9300 1400 0    10   ~ 0
+VEE
+Wire Wire Line
+	5500 2400 5500 2500
+Wire Wire Line
+	5500 2500 5500 2600
+Wire Wire Line
+	5500 2500 5800 2500
+Wire Wire Line
+	5800 2500 5800 2400
+Wire Wire Line
+	5100 2400 5100 2500
+Wire Wire Line
+	5100 2500 5500 2500
+Connection ~ 5500 2500
+Text Label 5500 2400 0    10   ~ 0
+VEE
+Wire Wire Line
+	2000 2100 2000 2200
+Wire Wire Line
+	2100 2100 2000 2100
+Text Label 2000 2100 0    10   ~ 0
+VEE
+Wire Wire Line
+	7500 5300 7900 5300
+Wire Wire Line
+	7900 5300 8300 5300
+Wire Wire Line
+	7500 5200 7500 5300
+Wire Wire Line
+	7900 5200 7900 5300
+Wire Wire Line
+	8300 5200 8300 5300
+Wire Wire Line
+	8300 5300 8700 5300
+Wire Wire Line
+	8700 5300 8900 5300
+Wire Wire Line
+	8900 5300 9100 5300
+Wire Wire Line
+	9100 5300 8900 5300
+Wire Wire Line
+	8900 5300 8700 5300
+Wire Wire Line
+	8700 5300 8900 5300
+Wire Wire Line
+	8900 5300 9100 5300
+Wire Wire Line
+	9100 5300 9500 5300
+Wire Wire Line
+	9500 5300 9500 5200
+Wire Wire Line
+	8700 5100 8700 5300
+Wire Wire Line
+	9100 5100 9100 5300
+Wire Wire Line
+	8700 5400 8700 5300
+Wire Wire Line
+	8900 5100 8900 5300
+Wire Wire Line
+	7500 5300 7100 5300
+Wire Wire Line
+	7100 5300 7100 5200
+Connection ~ 7900 5300
+Connection ~ 8300 5300
+Connection ~ 8700 5300
+Connection ~ 9100 5300
+Connection ~ 8900 5300
+Connection ~ 7500 5300
+Text Label 7500 5300 0    10   ~ 0
+VEE
+Wire Wire Line
+	5000 5200 5000 5100
+Wire Wire Line
+	4600 5200 5000 5200
+Wire Wire Line
+	4600 5000 4600 5200
+Wire Wire Line
+	4200 5200 4400 5200
+Wire Wire Line
+	4400 5200 4600 5200
+Wire Wire Line
+	4200 5000 4200 5200
+Wire Wire Line
+	4200 5200 4200 5300
+Wire Wire Line
+	3800 5200 4200 5200
+Wire Wire Line
+	3800 5100 3800 5200
+Wire Wire Line
+	3400 5200 3800 5200
+Wire Wire Line
+	3400 5100 3400 5200
+Wire Wire Line
+	3000 5200 3400 5200
+Wire Wire Line
+	3000 5100 3000 5200
+Wire Wire Line
+	4400 5000 4400 5200
+Wire Wire Line
+	2600 5100 2600 5200
+Wire Wire Line
+	2600 5200 3000 5200
+Connection ~ 4600 5200
+Connection ~ 4200 5200
+Connection ~ 4200 5200
+Connection ~ 3800 5200
+Connection ~ 3400 5200
+Connection ~ 4400 5200
+Connection ~ 3000 5200
+Text Label 5000 5200 0    10   ~ 0
+VEE
+Wire Wire Line
+	2200 1700 2200 1600
+Wire Wire Line
+	2200 1700 2300 1700
+Text Label 2200 1700 0    10   ~ 0
+VCC
+Wire Wire Line
+	7900 1400 7900 1300
+Text Label 7900 1400 0    10   ~ 0
+VCC
+Wire Wire Line
+	3000 4200 3400 4200
+Wire Wire Line
+	3400 4200 3800 4200
+Wire Wire Line
+	3800 4200 4200 4200
+Wire Wire Line
+	4200 4200 4400 4200
+Wire Wire Line
+	4400 4200 4600 4200
+Wire Wire Line
+	4600 4200 5000 4200
+Wire Wire Line
+	5000 4200 5000 4300
+Wire Wire Line
+	4200 4400 4200 4200
+Wire Wire Line
+	3000 4300 3000 4200
+Wire Wire Line
+	4200 4200 4200 4100
+Wire Wire Line
+	3400 4300 3400 4200
+Wire Wire Line
+	3800 4300 3800 4200
+Wire Wire Line
+	4600 4400 4600 4200
+Wire Wire Line
+	4400 4400 4400 4200
+Wire Wire Line
+	2600 4300 2600 4200
+Wire Wire Line
+	3000 4200 2600 4200
+Connection ~ 4200 4200
+Connection ~ 4200 4200
+Connection ~ 3400 4200
+Connection ~ 3800 4200
+Connection ~ 4600 4200
+Connection ~ 4400 4200
+Connection ~ 3000 4200
+Text Label 3000 4200 0    10   ~ 0
+VCC
+Wire Wire Line
+	7500 4300 7900 4300
+Wire Wire Line
+	7900 4300 8300 4300
+Wire Wire Line
+	7500 4400 7500 4300
+Wire Wire Line
+	7900 4400 7900 4300
+Wire Wire Line
+	8300 4400 8300 4300
+Wire Wire Line
+	8300 4300 8700 4300
+Wire Wire Line
+	8700 4300 8900 4300
+Wire Wire Line
+	8900 4300 9100 4300
+Wire Wire Line
+	9100 4300 8900 4300
+Wire Wire Line
+	8900 4300 8700 4300
+Wire Wire Line
+	8700 4300 8900 4300
+Wire Wire Line
+	8900 4300 9100 4300
+Wire Wire Line
+	9100 4300 9500 4300
+Wire Wire Line
+	9500 4300 9500 4400
+Wire Wire Line
+	8700 4500 8700 4300
+Wire Wire Line
+	9100 4500 9100 4300
+Wire Wire Line
+	8700 4200 8700 4300
+Wire Wire Line
+	8900 4500 8900 4300
+Wire Wire Line
+	7500 4300 7100 4300
+Wire Wire Line
+	7100 4300 7100 4400
+Connection ~ 7900 4300
+Connection ~ 8300 4300
+Connection ~ 9100 4300
+Connection ~ 8700 4300
+Connection ~ 8900 4300
+Connection ~ 7500 4300
+Text Label 7500 4300 0    10   ~ 0
+VCC
+Wire Wire Line
+	5500 1500 5500 1400
+Wire Wire Line
+	5500 1600 5500 1500
+Wire Wire Line
+	5100 1600 5100 1500
+Wire Wire Line
+	5100 1500 5500 1500
+Connection ~ 5500 1500
+Text Label 5500 1500 0    10   ~ 0
+VCC
+Wire Wire Line
+	7900 2100 7900 1900
+Wire Wire Line
+	7900 1900 7900 1800
+Wire Wire Line
+	7500 2000 7500 1900
+Wire Wire Line
+	7500 1900 7900 1900
+Wire Wire Line
+	7900 1900 8200 1900
+Wire Wire Line
+	7500 1900 7200 1900
+Wire Wire Line
+	7200 1900 7200 2000
+Connection ~ 7900 1900
+Connection ~ 7500 1900
+Text GLabel 8200 1900 2    70   BiDi ~ 0
+AREF_+10
+Wire Wire Line
+	3200 1700 3800 1700
+Wire Wire Line
+	3000 1700 3200 1700
+Connection ~ 3200 1700
+Wire Wire Line
+	3200 2100 3800 2100
+Wire Wire Line
+	3100 2100 3200 2100
+Connection ~ 3200 2100
+Wire Wire Line
+	2700 1700 2800 1700
+Wire Wire Line
+	2600 2100 2500 2100
+$Comp
+L veils_v40-eagle-import:LM4041DBZ IC8
+U 1 1 0EDD4B16
+P 9300 2200
+AR Path="/0EDD4B16" Ref="IC8"  Part="1" 
+AR Path="/5F819E98/0EDD4B16" Ref="IC8"  Part="1" 
+F 0 "IC8" H 9410 2275 59  0000 L BNN
+F 1 "LM4040C25" H 9410 2165 59  0000 L BNN
+F 2 "veils_v40:DBZ_R-PDSO-G3" H 9300 2200 50  0001 C CNN
+F 3 "" H 9300 2200 50  0001 C CNN
+	1    9300 2200
+	-1   0    0    1   
+$EndComp
+$Comp
+L veils_v40-eagle-import:R-US_R0402 R64
+U 1 1 B5625EE0
+P 9300 1600
+AR Path="/B5625EE0" Ref="R64"  Part="1" 
+AR Path="/5F819E98/B5625EE0" Ref="R64"  Part="1" 
+F 0 "R64" H 9150 1659 59  0000 L BNN
+F 1 "24k" H 9150 1470 59  0000 L BNN
+F 2 "veils_v40:R0402" H 9300 1600 50  0001 C CNN
+F 3 "" H 9300 1600 50  0001 C CNN
+	1    9300 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C32
+U 1 1 F71D8363
+P 9600 2100
+AR Path="/F71D8363" Ref="C32"  Part="1" 
+AR Path="/5F819E98/F71D8363" Ref="C32"  Part="1" 
+F 0 "C32" H 9640 2125 59  0000 L BNN
+F 1 "470n" H 9640 1935 59  0000 L BNN
+F 2 "veils_v40:C0402" H 9600 2100 50  0001 C CNN
+F 3 "" H 9600 2100 50  0001 C CNN
+	1    9600 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:GND #GND69
+U 1 1 1415D85A
+P 9300 2600
+AR Path="/1415D85A" Ref="#GND69"  Part="1" 
+AR Path="/5F819E98/1415D85A" Ref="#GND069"  Part="1" 
+F 0 "#GND069" H 9300 2600 50  0001 C CNN
+F 1 "GND" H 9200 2500 59  0000 L BNN
+F 2 "" H 9300 2600 50  0001 C CNN
+F 3 "" H 9300 2600 50  0001 C CNN
+	1    9300 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:VEE #SUPPLY1
+U 1 1 E46721A6
+P 9300 1200
+AR Path="/E46721A6" Ref="#SUPPLY1"  Part="1" 
+AR Path="/5F819E98/E46721A6" Ref="#SUPPLY01"  Part="1" 
+F 0 "#SUPPLY01" H 9300 1200 50  0001 C CNN
+F 1 "VEE" H 9225 1325 59  0000 L BNN
+F 2 "" H 9300 1200 50  0001 C CNN
+F 3 "" H 9300 1200 50  0001 C CNN
+	1    9300 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:CPOL-USB C2
+U 1 1 8A8AF94F
+P 5500 1700
+AR Path="/8A8AF94F" Ref="C2"  Part="1" 
+AR Path="/5F819E98/8A8AF94F" Ref="C2"  Part="1" 
+F 0 "C2" H 5540 1725 59  0000 L BNN
+F 1 "22u" H 5540 1535 59  0000 L BNN
+F 2 "veils_v40:PANASONIC_B" H 5500 1700 50  0001 C CNN
+F 3 "" H 5500 1700 50  0001 C CNN
+	1    5500 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:GND #GND23
+U 1 1 C7080FD3
+P 4200 2200
+AR Path="/C7080FD3" Ref="#GND23"  Part="1" 
+AR Path="/5F819E98/C7080FD3" Ref="#GND023"  Part="1" 
+F 0 "#GND023" H 4200 2200 50  0001 C CNN
+F 1 "GND" H 4100 2100 59  0000 L BNN
+F 2 "" H 4200 2200 50  0001 C CNN
+F 3 "" H 4200 2200 50  0001 C CNN
+	1    4200 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:VCC #P+2
+U 1 1 339DE9D3
+P 2200 1600
+AR Path="/339DE9D3" Ref="#P+2"  Part="1" 
+AR Path="/5F819E98/339DE9D3" Ref="#P+02"  Part="1" 
+F 0 "#P+02" H 2200 1600 50  0001 C CNN
+F 1 "VCC" H 2160 1740 59  0000 L BNN
+F 2 "" H 2200 1600 50  0001 C CNN
+F 3 "" H 2200 1600 50  0001 C CNN
+	1    2200 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:VEE #SUPPLY2
+U 1 1 33EFDB7C
+P 2000 2300
+AR Path="/33EFDB7C" Ref="#SUPPLY2"  Part="1" 
+AR Path="/5F819E98/33EFDB7C" Ref="#SUPPLY02"  Part="1" 
+F 0 "#SUPPLY02" H 2000 2300 50  0001 C CNN
+F 1 "VEE" H 1925 2425 59  0000 L BNN
+F 2 "" H 2000 2300 50  0001 C CNN
+F 3 "" H 2000 2300 50  0001 C CNN
+	1    2000 2300
+	-1   0    0    1   
+$EndComp
+$Comp
+L veils_v40-eagle-import:VCC #P+3
+U 1 1 00F05DF6
+P 5500 1400
+AR Path="/00F05DF6" Ref="#P+3"  Part="1" 
+AR Path="/5F819E98/00F05DF6" Ref="#P+03"  Part="1" 
+F 0 "#P+03" H 5500 1400 50  0001 C CNN
+F 1 "VCC" H 5460 1540 59  0000 L BNN
+F 2 "" H 5500 1400 50  0001 C CNN
+F 3 "" H 5500 1400 50  0001 C CNN
+	1    5500 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:VEE #SUPPLY3
+U 1 1 D5692080
+P 5500 2700
+AR Path="/D5692080" Ref="#SUPPLY3"  Part="1" 
+AR Path="/5F819E98/D5692080" Ref="#SUPPLY03"  Part="1" 
+F 0 "#SUPPLY03" H 5500 2700 50  0001 C CNN
+F 1 "VEE" H 5425 2825 59  0000 L BNN
+F 2 "" H 5500 2700 50  0001 C CNN
+F 3 "" H 5500 2700 50  0001 C CNN
+	1    5500 2700
+	-1   0    0    1   
+$EndComp
+$Comp
+L veils_v40-eagle-import:GND #GND24
+U 1 1 664B2FAE
+P 4800 2200
+AR Path="/664B2FAE" Ref="#GND24"  Part="1" 
+AR Path="/5F819E98/664B2FAE" Ref="#GND024"  Part="1" 
+F 0 "#GND024" H 4800 2200 50  0001 C CNN
+F 1 "GND" H 4700 2100 59  0000 L BNN
+F 2 "" H 4800 2200 50  0001 C CNN
+F 3 "" H 4800 2200 50  0001 C CNN
+	1    4800 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:M05X2PTH JP5
+U 1 1 6716FC81
+P 3500 1900
+AR Path="/6716FC81" Ref="JP5"  Part="1" 
+AR Path="/5F819E98/6716FC81" Ref="JP5"  Part="1" 
+F 0 "JP5" H 3400 2230 59  0000 L BNN
+F 1 "M05X2PTH" H 3400 1500 59  0000 L BNN
+F 2 "veils_v40:AVR_ICSP" H 3500 1900 50  0001 C CNN
+F 3 "" H 3500 1900 50  0001 C CNN
+	1    3500 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:PTCSMD P1
+U 1 1 F6E8D358
+P 2800 2100
+AR Path="/F6E8D358" Ref="P1"  Part="1" 
+AR Path="/5F819E98/F6E8D358" Ref="P1"  Part="1" 
+F 0 "P1" H 2700 2220 59  0000 L BNN
+F 1 "PTCSMD" H 2670 1900 59  0000 L BNN
+F 2 "veils_v40:PTC-1206" H 2800 2100 50  0001 C CNN
+F 3 "" H 2800 2100 50  0001 C CNN
+	1    2800 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:FIDUCIAL1X2 JP3
+U 1 1 ACD8E5B6
+P 2800 1100
+AR Path="/ACD8E5B6" Ref="JP3"  Part="1" 
+AR Path="/5F819E98/ACD8E5B6" Ref="JP3"  Part="1" 
+F 0 "JP3" H 2800 1100 50  0001 C CNN
+F 1 "FIDUCIAL1X2" H 2800 1100 50  0001 C CNN
+F 2 "veils_v40:FIDUCIAL-1X2" H 2800 1100 50  0001 C CNN
+F 3 "" H 2800 1100 50  0001 C CNN
+	1    2800 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:FIDUCIAL1X2 JP4
+U 1 1 47274FB3
+P 3000 1100
+AR Path="/47274FB3" Ref="JP4"  Part="1" 
+AR Path="/5F819E98/47274FB3" Ref="JP4"  Part="1" 
+F 0 "JP4" H 3000 1100 50  0001 C CNN
+F 1 "FIDUCIAL1X2" H 3000 1100 50  0001 C CNN
+F 2 "veils_v40:FIDUCIAL-1X2" H 3000 1100 50  0001 C CNN
+F 3 "" H 3000 1100 50  0001 C CNN
+	1    3000 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:FIDUCIAL1X2 JP2
+U 1 1 FA93C76E
+P 3200 1100
+AR Path="/FA93C76E" Ref="JP2"  Part="1" 
+AR Path="/5F819E98/FA93C76E" Ref="JP2"  Part="1" 
+F 0 "JP2" H 3200 1100 50  0001 C CNN
+F 1 "FIDUCIAL1X2" H 3200 1100 50  0001 C CNN
+F 2 "veils_v40:FIDUCIAL-1X2" H 3200 1100 50  0001 C CNN
+F 3 "" H 3200 1100 50  0001 C CNN
+	1    3200 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:FIDUCIAL1X2 JP1
+U 1 1 2F430EF2
+P 3400 1100
+AR Path="/2F430EF2" Ref="JP1"  Part="1" 
+AR Path="/5F819E98/2F430EF2" Ref="JP1"  Part="1" 
+F 0 "JP1" H 3400 1100 50  0001 C CNN
+F 1 "FIDUCIAL1X2" H 3400 1100 50  0001 C CNN
+F 2 "veils_v40:FIDUCIAL-1X2" H 3400 1100 50  0001 C CNN
+F 3 "" H 3400 1100 50  0001 C CNN
+	1    3400 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:CPOL-USB C1
+U 1 1 C20FC76C
+P 5500 2200
+AR Path="/C20FC76C" Ref="C1"  Part="1" 
+AR Path="/5F819E98/C20FC76C" Ref="C1"  Part="1" 
+F 0 "C1" H 5540 2225 59  0000 L BNN
+F 1 "22u" H 5540 2035 59  0000 L BNN
+F 2 "veils_v40:PANASONIC_B" H 5500 2200 50  0001 C CNN
+F 3 "" H 5500 2200 50  0001 C CNN
+	1    5500 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:LM4041DBZ IC9
+U 1 1 39277590
+P 7900 2200
+AR Path="/39277590" Ref="IC9"  Part="1" 
+AR Path="/5F819E98/39277590" Ref="IC9"  Part="1" 
+F 0 "IC9" H 8010 2275 59  0000 L BNN
+F 1 "LM4040C10" H 8010 2165 59  0000 L BNN
+F 2 "veils_v40:DBZ_R-PDSO-G3" H 7900 2200 50  0001 C CNN
+F 3 "" H 7900 2200 50  0001 C CNN
+	1    7900 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:R-US_R0402 R74
+U 1 1 67E76EA3
+P 7900 1600
+AR Path="/67E76EA3" Ref="R74"  Part="1" 
+AR Path="/5F819E98/67E76EA3" Ref="R74"  Part="1" 
+F 0 "R74" H 7750 1659 59  0000 L BNN
+F 1 "3.6k" H 7750 1470 59  0000 L BNN
+F 2 "veils_v40:R0402" H 7900 1600 50  0001 C CNN
+F 3 "" H 7900 1600 50  0001 C CNN
+	1    7900 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C36
+U 1 1 8ADABCA8
+P 7500 2100
+AR Path="/8ADABCA8" Ref="C36"  Part="1" 
+AR Path="/5F819E98/8ADABCA8" Ref="C36"  Part="1" 
+F 0 "C36" H 7540 2125 59  0000 L BNN
+F 1 "470n" H 7540 1935 59  0000 L BNN
+F 2 "veils_v40:C0402" H 7500 2100 50  0001 C CNN
+F 3 "" H 7500 2100 50  0001 C CNN
+	1    7500 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:GND #GND12
+U 1 1 A5F18D96
+P 7900 2600
+AR Path="/A5F18D96" Ref="#GND12"  Part="1" 
+AR Path="/5F819E98/A5F18D96" Ref="#GND012"  Part="1" 
+F 0 "#GND012" H 7900 2600 50  0001 C CNN
+F 1 "GND" H 7800 2500 59  0000 L BNN
+F 2 "" H 7900 2600 50  0001 C CNN
+F 3 "" H 7900 2600 50  0001 C CNN
+	1    7900 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:VCC #P+8
+U 1 1 B54CCCBB
+P 7900 1300
+AR Path="/B54CCCBB" Ref="#P+8"  Part="1" 
+AR Path="/5F819E98/B54CCCBB" Ref="#P+08"  Part="1" 
+F 0 "#P+08" H 7900 1300 50  0001 C CNN
+F 1 "VCC" H 7860 1440 59  0000 L BNN
+F 2 "" H 7900 1300 50  0001 C CNN
+F 3 "" H 7900 1300 50  0001 C CNN
+	1    7900 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:SSM2164S IC3
+U 5 1 920F11EB
+P 5000 4600
+AR Path="/920F11EB" Ref="IC3"  Part="5" 
+AR Path="/5F819E98/920F11EB" Ref="IC3"  Part="5" 
+F 0 "IC3" H 5200 4100 59  0000 L BNN
+F 1 "V2164SZ" H 5200 4000 59  0000 L BNN
+F 2 "veils_v40:SOIC16N" H 5000 4600 50  0001 C CNN
+F 3 "" H 5000 4600 50  0001 C CNN
+	5    5000 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:GND #GND48
+U 1 1 6421A367
+P 5700 5000
+AR Path="/6421A367" Ref="#GND48"  Part="1" 
+AR Path="/5F819E98/6421A367" Ref="#GND048"  Part="1" 
+F 0 "#GND048" H 5700 5000 50  0001 C CNN
+F 1 "GND" H 5600 4900 59  0000 L BNN
+F 2 "" H 5700 5000 50  0001 C CNN
+F 3 "" H 5700 5000 50  0001 C CNN
+	1    5700 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C7
+U 1 1 B9E0DE35
+P 3000 4400
+AR Path="/B9E0DE35" Ref="C7"  Part="1" 
+AR Path="/5F819E98/B9E0DE35" Ref="C7"  Part="1" 
+F 0 "C7" H 3040 4425 59  0000 L BNN
+F 1 "100n" H 3040 4235 59  0000 L BNN
+F 2 "veils_v40:C0402" H 3000 4400 50  0001 C CNN
+F 3 "" H 3000 4400 50  0001 C CNN
+	1    3000 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C3
+U 1 1 0AE61553
+P 3000 4900
+AR Path="/0AE61553" Ref="C3"  Part="1" 
+AR Path="/5F819E98/0AE61553" Ref="C3"  Part="1" 
+F 0 "C3" H 3040 4925 59  0000 L BNN
+F 1 "100n" H 3040 4735 59  0000 L BNN
+F 2 "veils_v40:C0402" H 3000 4900 50  0001 C CNN
+F 3 "" H 3000 4900 50  0001 C CNN
+	1    3000 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:GND #GND49
+U 1 1 141F4D3B
+P 2300 4900
+AR Path="/141F4D3B" Ref="#GND49"  Part="1" 
+AR Path="/5F819E98/141F4D3B" Ref="#GND049"  Part="1" 
+F 0 "#GND049" H 2300 4900 50  0001 C CNN
+F 1 "GND" H 2200 4800 59  0000 L BNN
+F 2 "" H 2300 4900 50  0001 C CNN
+F 3 "" H 2300 4900 50  0001 C CNN
+	1    2300 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:VCC #P+10
+U 1 1 99CC31BE
+P 4200 4100
+AR Path="/99CC31BE" Ref="#P+10"  Part="1" 
+AR Path="/5F819E98/99CC31BE" Ref="#P+010"  Part="1" 
+F 0 "#P+010" H 4200 4100 50  0001 C CNN
+F 1 "VCC" H 4160 4240 59  0000 L BNN
+F 2 "" H 4200 4100 50  0001 C CNN
+F 3 "" H 4200 4100 50  0001 C CNN
+	1    4200 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:VEE #SUPPLY4
+U 1 1 6DF68C43
+P 4200 5400
+AR Path="/6DF68C43" Ref="#SUPPLY4"  Part="1" 
+AR Path="/5F819E98/6DF68C43" Ref="#SUPPLY04"  Part="1" 
+F 0 "#SUPPLY04" H 4200 5400 50  0001 C CNN
+F 1 "VEE" H 4125 5525 59  0000 L BNN
+F 2 "" H 4200 5400 50  0001 C CNN
+F 3 "" H 4200 5400 50  0001 C CNN
+	1    4200 5400
+	-1   0    0    1   
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C4
+U 1 1 284EA6E9
+P 3400 4400
+AR Path="/284EA6E9" Ref="C4"  Part="1" 
+AR Path="/5F819E98/284EA6E9" Ref="C4"  Part="1" 
+F 0 "C4" H 3440 4425 59  0000 L BNN
+F 1 "100n" H 3440 4235 59  0000 L BNN
+F 2 "veils_v40:C0402" H 3400 4400 50  0001 C CNN
+F 3 "" H 3400 4400 50  0001 C CNN
+	1    3400 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C20
+U 1 1 1D7B263C
+P 3400 4900
+AR Path="/1D7B263C" Ref="C20"  Part="1" 
+AR Path="/5F819E98/1D7B263C" Ref="C20"  Part="1" 
+F 0 "C20" H 3440 4925 59  0000 L BNN
+F 1 "100n" H 3440 4735 59  0000 L BNN
+F 2 "veils_v40:C0402" H 3400 4900 50  0001 C CNN
+F 3 "" H 3400 4900 50  0001 C CNN
+	1    3400 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C19
+U 1 1 5D88D454
+P 3800 4400
+AR Path="/5D88D454" Ref="C19"  Part="1" 
+AR Path="/5F819E98/5D88D454" Ref="C19"  Part="1" 
+F 0 "C19" H 3840 4425 59  0000 L BNN
+F 1 "100n" H 3840 4235 59  0000 L BNN
+F 2 "veils_v40:C0402" H 3800 4400 50  0001 C CNN
+F 3 "" H 3800 4400 50  0001 C CNN
+	1    3800 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C15
+U 1 1 9DEF2EB6
+P 3800 4900
+AR Path="/9DEF2EB6" Ref="C15"  Part="1" 
+AR Path="/5F819E98/9DEF2EB6" Ref="C15"  Part="1" 
+F 0 "C15" H 3840 4925 59  0000 L BNN
+F 1 "100n" H 3840 4735 59  0000 L BNN
+F 2 "veils_v40:C0402" H 3800 4900 50  0001 C CNN
+F 3 "" H 3800 4900 50  0001 C CNN
+	1    3800 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:WE-CBF_0603 L2
+U 1 1 671AA6CB
+P 2500 1800
+AR Path="/671AA6CB" Ref="L2"  Part="1" 
+AR Path="/5F819E98/671AA6CB" Ref="L2"  Part="1" 
+F 0 "L2" H 2350 2000 59  0000 L BNN
+F 1 "742792664" H 2350 1750 59  0000 L BNN
+F 2 "veils_v40:0603" H 2500 1800 50  0001 C CNN
+F 3 "" H 2500 1800 50  0001 C CNN
+	1    2500 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:WE-CBF_0603 L1
+U 1 1 5C08E1B0
+P 2300 2200
+AR Path="/5C08E1B0" Ref="L1"  Part="1" 
+AR Path="/5F819E98/5C08E1B0" Ref="L1"  Part="1" 
+F 0 "L1" H 2150 2400 59  0000 L BNN
+F 1 "742792664" H 2150 2150 59  0000 L BNN
+F 2 "veils_v40:0603" H 2300 2200 50  0001 C CNN
+F 3 "" H 2300 2200 50  0001 C CNN
+	1    2300 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:A4L-LOC #FRAME2
+U 1 1 DFE0E5A0
+P 1000 7200
+AR Path="/DFE0E5A0" Ref="#FRAME2"  Part="1" 
+AR Path="/5F819E98/DFE0E5A0" Ref="#FRAME2"  Part="1" 
+F 0 "#FRAME2" H 1000 7200 50  0001 C CNN
+F 1 "A4L-LOC" H 1000 7200 50  0001 C CNN
+F 2 "" H 1000 7200 50  0001 C CNN
+F 3 "" H 1000 7200 50  0001 C CNN
+	1    1000 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:TL074PW IC1
+U 5 1 9985E52D
+P 4200 4700
+AR Path="/9985E52D" Ref="IC1"  Part="5" 
+AR Path="/5F819E98/9985E52D" Ref="IC1"  Part="5" 
+F 0 "IC1" H 4300 4825 59  0001 L BNN
+F 1 "OPA1654" H 4300 4500 59  0001 L BNN
+F 2 "veils_v40:TSSOP14" H 4200 4700 50  0001 C CNN
+F 3 "" H 4200 4700 50  0001 C CNN
+	5    4200 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:TL074PW IC4
+U 5 1 D919B959
+P 4600 4700
+AR Path="/D919B959" Ref="IC4"  Part="5" 
+AR Path="/5F819E98/D919B959" Ref="IC4"  Part="5" 
+F 0 "IC4" H 4700 4825 59  0001 L BNN
+F 1 "OPA1654" H 4700 4500 59  0001 L BNN
+F 2 "veils_v40:TSSOP14" H 4600 4700 50  0001 C CNN
+F 3 "" H 4600 4700 50  0001 C CNN
+	5    4600 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:SSM2164S IC7
+U 5 1 8A08B52F
+P 9500 4700
+AR Path="/8A08B52F" Ref="IC7"  Part="5" 
+AR Path="/5F819E98/8A08B52F" Ref="IC7"  Part="5" 
+F 0 "IC7" H 9700 4200 59  0000 L BNN
+F 1 "V2164SZ" H 9700 4100 59  0000 L BNN
+F 2 "veils_v40:SOIC16N" H 9500 4700 50  0001 C CNN
+F 3 "" H 9500 4700 50  0001 C CNN
+	5    9500 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:TL074PW IC5
+U 5 1 7A04F6BD
+P 9100 4800
+AR Path="/7A04F6BD" Ref="IC5"  Part="5" 
+AR Path="/5F819E98/7A04F6BD" Ref="IC5"  Part="5" 
+F 0 "IC5" H 9200 4925 59  0001 L BNN
+F 1 "OPA1654" H 9200 4600 59  0001 L BNN
+F 2 "veils_v40:TSSOP14" H 9100 4800 50  0001 C CNN
+F 3 "" H 9100 4800 50  0001 C CNN
+	5    9100 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:TL074PW IC10
+U 5 1 4CB9E32B
+P 8700 4800
+AR Path="/4CB9E32B" Ref="IC10"  Part="5" 
+AR Path="/5F819E98/4CB9E32B" Ref="IC10"  Part="5" 
+F 0 "IC10" H 8800 4925 59  0001 L BNN
+F 1 "OPA1654" H 8800 4600 59  0001 L BNN
+F 2 "veils_v40:TSSOP14" H 8700 4800 50  0001 C CNN
+F 3 "" H 8700 4800 50  0001 C CNN
+	5    8700 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C27
+U 1 1 29E2B3A1
+P 7500 4500
+AR Path="/29E2B3A1" Ref="C27"  Part="1" 
+AR Path="/5F819E98/29E2B3A1" Ref="C27"  Part="1" 
+F 0 "C27" H 7540 4525 59  0000 L BNN
+F 1 "100n" H 7540 4335 59  0000 L BNN
+F 2 "veils_v40:C0402" H 7500 4500 50  0001 C CNN
+F 3 "" H 7500 4500 50  0001 C CNN
+	1    7500 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C23
+U 1 1 723FB792
+P 7500 5000
+AR Path="/723FB792" Ref="C23"  Part="1" 
+AR Path="/5F819E98/723FB792" Ref="C23"  Part="1" 
+F 0 "C23" H 7540 5025 59  0000 L BNN
+F 1 "100n" H 7540 4835 59  0000 L BNN
+F 2 "veils_v40:C0402" H 7500 5000 50  0001 C CNN
+F 3 "" H 7500 5000 50  0001 C CNN
+	1    7500 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:GND #GND62
+U 1 1 F68AF8FF
+P 6800 5000
+AR Path="/F68AF8FF" Ref="#GND62"  Part="1" 
+AR Path="/5F819E98/F68AF8FF" Ref="#GND062"  Part="1" 
+F 0 "#GND062" H 6800 5000 50  0001 C CNN
+F 1 "GND" H 6700 4900 59  0000 L BNN
+F 2 "" H 6800 5000 50  0001 C CNN
+F 3 "" H 6800 5000 50  0001 C CNN
+	1    6800 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C24
+U 1 1 C533F2EC
+P 7900 4500
+AR Path="/C533F2EC" Ref="C24"  Part="1" 
+AR Path="/5F819E98/C533F2EC" Ref="C24"  Part="1" 
+F 0 "C24" H 7940 4525 59  0000 L BNN
+F 1 "100n" H 7940 4335 59  0000 L BNN
+F 2 "veils_v40:C0402" H 7900 4500 50  0001 C CNN
+F 3 "" H 7900 4500 50  0001 C CNN
+	1    7900 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C39
+U 1 1 3AA58703
+P 7900 5000
+AR Path="/3AA58703" Ref="C39"  Part="1" 
+AR Path="/5F819E98/3AA58703" Ref="C39"  Part="1" 
+F 0 "C39" H 7940 5025 59  0000 L BNN
+F 1 "100n" H 7940 4835 59  0000 L BNN
+F 2 "veils_v40:C0402" H 7900 5000 50  0001 C CNN
+F 3 "" H 7900 5000 50  0001 C CNN
+	1    7900 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C40
+U 1 1 4E4D31BA
+P 8300 4500
+AR Path="/4E4D31BA" Ref="C40"  Part="1" 
+AR Path="/5F819E98/4E4D31BA" Ref="C40"  Part="1" 
+F 0 "C40" H 8340 4525 59  0000 L BNN
+F 1 "100n" H 8340 4335 59  0000 L BNN
+F 2 "veils_v40:C0402" H 8300 4500 50  0001 C CNN
+F 3 "" H 8300 4500 50  0001 C CNN
+	1    8300 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C35
+U 1 1 5CE914D4
+P 8300 5000
+AR Path="/5CE914D4" Ref="C35"  Part="1" 
+AR Path="/5F819E98/5CE914D4" Ref="C35"  Part="1" 
+F 0 "C35" H 8340 5025 59  0000 L BNN
+F 1 "100n" H 8340 4835 59  0000 L BNN
+F 2 "veils_v40:C0402" H 8300 5000 50  0001 C CNN
+F 3 "" H 8300 5000 50  0001 C CNN
+	1    8300 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:GND #GND63
+U 1 1 D1D50116
+P 10200 5100
+AR Path="/D1D50116" Ref="#GND63"  Part="1" 
+AR Path="/5F819E98/D1D50116" Ref="#GND063"  Part="1" 
+F 0 "#GND063" H 10200 5100 50  0001 C CNN
+F 1 "GND" H 10100 5000 59  0000 L BNN
+F 2 "" H 10200 5100 50  0001 C CNN
+F 3 "" H 10200 5100 50  0001 C CNN
+	1    10200 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:VCC #P+1
+U 1 1 BCDF72C5
+P 8700 4200
+AR Path="/BCDF72C5" Ref="#P+1"  Part="1" 
+AR Path="/5F819E98/BCDF72C5" Ref="#P+01"  Part="1" 
+F 0 "#P+01" H 8700 4200 50  0001 C CNN
+F 1 "VCC" H 8660 4340 59  0000 L BNN
+F 2 "" H 8700 4200 50  0001 C CNN
+F 3 "" H 8700 4200 50  0001 C CNN
+	1    8700 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:VEE #SUPPLY5
+U 1 1 FD320F9F
+P 8700 5500
+AR Path="/FD320F9F" Ref="#SUPPLY5"  Part="1" 
+AR Path="/5F819E98/FD320F9F" Ref="#SUPPLY05"  Part="1" 
+F 0 "#SUPPLY05" H 8700 5500 50  0001 C CNN
+F 1 "VEE" H 8625 5625 59  0000 L BNN
+F 2 "" H 8700 5500 50  0001 C CNN
+F 3 "" H 8700 5500 50  0001 C CNN
+	1    8700 5500
+	-1   0    0    1   
+$EndComp
+$Comp
+L veils_v40-eagle-import:TL072PW IC6
+U 3 1 706BC4A6
+P 8900 4800
+AR Path="/706BC4A6" Ref="IC6"  Part="3" 
+AR Path="/5F819E98/706BC4A6" Ref="IC6"  Part="3" 
+F 0 "IC6" H 9000 4925 59  0001 L BNN
+F 1 "LM358PW" H 9000 4600 59  0001 L BNN
+F 2 "veils_v40:TSSOP8" H 8900 4800 50  0001 C CNN
+F 3 "" H 8900 4800 50  0001 C CNN
+	3    8900 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:TL072PW IC2
+U 3 1 4E371408
+P 4400 4700
+AR Path="/4E371408" Ref="IC2"  Part="3" 
+AR Path="/5F819E98/4E371408" Ref="IC2"  Part="3" 
+F 0 "IC2" H 4500 4825 59  0001 L BNN
+F 1 "LM358PW" H 4500 4500 59  0001 L BNN
+F 2 "veils_v40:TSSOP8" H 4400 4700 50  0001 C CNN
+F 3 "" H 4400 4700 50  0001 C CNN
+	3    4400 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C8
+U 1 1 621C301E
+P 2600 4400
+AR Path="/621C301E" Ref="C8"  Part="1" 
+AR Path="/5F819E98/621C301E" Ref="C8"  Part="1" 
+F 0 "C8" H 2640 4425 59  0000 L BNN
+F 1 "100n" H 2640 4235 59  0000 L BNN
+F 2 "veils_v40:C0402" H 2600 4400 50  0001 C CNN
+F 3 "" H 2600 4400 50  0001 C CNN
+	1    2600 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C11
+U 1 1 59663956
+P 2600 4900
+AR Path="/59663956" Ref="C11"  Part="1" 
+AR Path="/5F819E98/59663956" Ref="C11"  Part="1" 
+F 0 "C11" H 2640 4925 59  0000 L BNN
+F 1 "100n" H 2640 4735 59  0000 L BNN
+F 2 "veils_v40:C0402" H 2600 4900 50  0001 C CNN
+F 3 "" H 2600 4900 50  0001 C CNN
+	1    2600 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C28
+U 1 1 1AF00DE7
+P 7100 4500
+AR Path="/1AF00DE7" Ref="C28"  Part="1" 
+AR Path="/5F819E98/1AF00DE7" Ref="C28"  Part="1" 
+F 0 "C28" H 7140 4525 59  0000 L BNN
+F 1 "100n" H 7140 4335 59  0000 L BNN
+F 2 "veils_v40:C0402" H 7100 4500 50  0001 C CNN
+F 3 "" H 7100 4500 50  0001 C CNN
+	1    7100 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C31
+U 1 1 C1C414A2
+P 7100 5000
+AR Path="/C1C414A2" Ref="C31"  Part="1" 
+AR Path="/5F819E98/C1C414A2" Ref="C31"  Part="1" 
+F 0 "C31" H 7140 5025 59  0000 L BNN
+F 1 "100n" H 7140 4835 59  0000 L BNN
+F 2 "veils_v40:C0402" H 7100 5000 50  0001 C CNN
+F 3 "" H 7100 5000 50  0001 C CNN
+	1    7100 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:CPOL-USB C21
+U 1 1 EA7396EC
+P 5100 1700
+AR Path="/EA7396EC" Ref="C21"  Part="1" 
+AR Path="/5F819E98/EA7396EC" Ref="C21"  Part="1" 
+F 0 "C21" H 5140 1725 59  0000 L BNN
+F 1 "22u" H 5140 1535 59  0000 L BNN
+F 2 "veils_v40:PANASONIC_B" H 5100 1700 50  0001 C CNN
+F 3 "" H 5100 1700 50  0001 C CNN
+	1    5100 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:CPOL-USB C22
+U 1 1 854BD974
+P 5100 2200
+AR Path="/854BD974" Ref="C22"  Part="1" 
+AR Path="/5F819E98/854BD974" Ref="C22"  Part="1" 
+F 0 "C22" H 5140 2225 59  0000 L BNN
+F 1 "22u" H 5140 2035 59  0000 L BNN
+F 2 "veils_v40:PANASONIC_B" H 5100 2200 50  0001 C CNN
+F 3 "" H 5100 2200 50  0001 C CNN
+	1    5100 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C16
+U 1 1 A3AE44C7
+P 7200 2100
+AR Path="/A3AE44C7" Ref="C16"  Part="1" 
+AR Path="/5F819E98/A3AE44C7" Ref="C16"  Part="1" 
+F 0 "C16" H 7240 2125 59  0000 L BNN
+F 1 "470n" H 7240 1935 59  0000 L BNN
+F 2 "veils_v40:C0402" H 7200 2100 50  0001 C CNN
+F 3 "" H 7200 2100 50  0001 C CNN
+	1    7200 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:C-USC0402 C12
+U 1 1 138C15F1
+P 9900 2100
+AR Path="/138C15F1" Ref="C12"  Part="1" 
+AR Path="/5F819E98/138C15F1" Ref="C12"  Part="1" 
+F 0 "C12" H 9940 2125 59  0000 L BNN
+F 1 "470n" H 9940 1935 59  0000 L BNN
+F 2 "veils_v40:C0402" H 9900 2100 50  0001 C CNN
+F 3 "" H 9900 2100 50  0001 C CNN
+	1    9900 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:DIODE-SOD123 D2
+U 1 1 E86809E3
+P 2900 1700
+AR Path="/E86809E3" Ref="D2"  Part="1" 
+AR Path="/5F819E98/E86809E3" Ref="D2"  Part="1" 
+F 0 "D2" H 2900 1581 59  0000 R TNN
+F 1 "1N5819HW" H 3000 1609 59  0001 L BNN
+F 2 "veils_v40:SOD123" H 2900 1700 50  0001 C CNN
+F 3 "" H 2900 1700 50  0001 C CNN
+	1    2900 1700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L veils_v40-eagle-import:DIODE-SOD123 D1
+U 1 1 453B99A4
+P 5800 2300
+AR Path="/453B99A4" Ref="D1"  Part="1" 
+AR Path="/5F819E98/453B99A4" Ref="D1"  Part="1" 
+F 0 "D1" H 5800 2181 59  0000 R TNN
+F 1 "1N5819HW" H 5900 2209 59  0001 L BNN
+F 2 "veils_v40:SOD123" H 5800 2300 50  0001 C CNN
+F 3 "" H 5800 2300 50  0001 C CNN
+	1    5800 2300
+	0    1    -1   0   
+$EndComp
+Text Notes 7400 6400 0    85   ~ 0
+cc-by-sa
+Text Notes 9500 6400 0    85   ~ 0
+Power supply
+Text Notes 10000 1700 0    59   ~ 0
+0.41mA delivered
+Text Notes 8200 1700 0    59   ~ 0
+0.41mA delivered
+Text Notes 10000 1800 0    59   ~ 0
+0.20mA needed
+Text Notes 8200 1800 0    59   ~ 0
+0.32mA needed
+Text Notes 7400 6600 0    85   ~ 0
+Émilie Gillet
+Text Notes 7400 6800 0    85   ~ 0
+emilie.o.gillet@gmail.com
+$EndSCHEMATC
