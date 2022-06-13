@@ -1,0 +1,3213 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 16840 11487
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	8300 4600 8200 4600
+Wire Wire Line
+	8300 4200 8200 4200
+Wire Wire Line
+	8200 4600 8200 4200
+Wire Wire Line
+	8200 4600 8200 4700
+Connection ~ 8200 4600
+Text Label 8300 4600 0    10   ~ 0
+GND
+Wire Wire Line
+	15400 2200 15500 2200
+Wire Wire Line
+	15500 2200 15500 2300
+Wire Wire Line
+	15000 2100 15500 2100
+Wire Wire Line
+	15500 2100 15500 2200
+Wire Wire Line
+	14600 2000 15500 2000
+Wire Wire Line
+	15500 2000 15500 2100
+Wire Wire Line
+	14200 1900 15500 1900
+Wire Wire Line
+	15500 1900 15500 2000
+Connection ~ 15500 2200
+Connection ~ 15500 2100
+Connection ~ 15500 2000
+Text Label 15400 2200 0    10   ~ 0
+GND
+Wire Wire Line
+	15100 4100 15000 4100
+Wire Wire Line
+	15000 4100 15000 4200
+Wire Wire Line
+	15000 4200 15000 4300
+Wire Wire Line
+	15100 4200 15000 4200
+Connection ~ 15000 4200
+Text Label 15100 4100 0    10   ~ 0
+GND
+Wire Wire Line
+	15100 4800 15000 4800
+Wire Wire Line
+	15000 4800 15000 4900
+Wire Wire Line
+	15000 4900 15000 5000
+Wire Wire Line
+	15000 4900 15100 4900
+Connection ~ 15000 4900
+Text Label 15100 4800 0    10   ~ 0
+GND
+Wire Wire Line
+	15100 3400 15000 3400
+Wire Wire Line
+	15000 3400 15000 3500
+Wire Wire Line
+	15000 3500 15000 3600
+Wire Wire Line
+	15100 3500 15000 3500
+Connection ~ 15000 3500
+Text Label 15100 3400 0    10   ~ 0
+GND
+Wire Wire Line
+	15000 6200 14900 6200
+Wire Wire Line
+	14900 6200 14900 6300
+Wire Wire Line
+	14900 6300 14900 6400
+Wire Wire Line
+	15000 6300 14900 6300
+Connection ~ 14900 6300
+Text Label 15000 6200 0    10   ~ 0
+GND
+Wire Wire Line
+	15000 6900 14900 6900
+Wire Wire Line
+	14900 6900 14900 7000
+Wire Wire Line
+	14900 7000 14900 7100
+Wire Wire Line
+	14900 7000 15000 7000
+Connection ~ 14900 7000
+Text Label 15000 6900 0    10   ~ 0
+GND
+Wire Wire Line
+	15000 5500 14900 5500
+Wire Wire Line
+	14900 5500 14900 5600
+Wire Wire Line
+	14900 5600 14900 5700
+Wire Wire Line
+	15000 5600 14900 5600
+Connection ~ 14900 5600
+Text Label 15000 5500 0    10   ~ 0
+GND
+Wire Wire Line
+	9100 5200 9000 5200
+Wire Wire Line
+	9000 5200 9000 5300
+Wire Wire Line
+	9000 5300 9000 5400
+Wire Wire Line
+	9000 5400 9000 5500
+Wire Wire Line
+	9100 5300 9000 5300
+Wire Wire Line
+	9100 5400 9000 5400
+Connection ~ 9000 5300
+Connection ~ 9000 5400
+Text Label 9100 5200 0    10   ~ 0
+GND
+Wire Wire Line
+	12700 4100 12600 4100
+Wire Wire Line
+	12600 4100 12600 4200
+Text Label 12700 4100 0    10   ~ 0
+GND
+Wire Wire Line
+	10400 1800 10500 1800
+Wire Wire Line
+	10500 1800 10500 1900
+Text Label 10400 1800 0    10   ~ 0
+GND
+Wire Wire Line
+	2200 8900 2200 9000
+Text Label 2200 8900 0    10   ~ 0
+GND
+Wire Wire Line
+	3000 2000 2900 2000
+Wire Wire Line
+	2900 2000 2900 2100
+Text Label 3000 2000 0    10   ~ 0
+GND
+Wire Wire Line
+	1400 1600 1400 1500
+Text Label 1400 1600 0    10   ~ 0
+GND
+Wire Wire Line
+	2000 1700 2100 1700
+Wire Wire Line
+	2100 1700 2100 1800
+Wire Wire Line
+	2100 1800 2100 2000
+Wire Wire Line
+	2000 1800 2100 1800
+Connection ~ 2100 1800
+Text Label 2000 1700 0    10   ~ 0
+GND
+Wire Wire Line
+	3000 3800 2900 3800
+Wire Wire Line
+	2900 3800 2900 3900
+Text Label 3000 3800 0    10   ~ 0
+GND
+Wire Wire Line
+	1400 3400 1400 3300
+Text Label 1400 3400 0    10   ~ 0
+GND
+Wire Wire Line
+	2000 3500 2100 3500
+Wire Wire Line
+	2100 3500 2100 3600
+Wire Wire Line
+	2100 3600 2100 3800
+Wire Wire Line
+	2000 3600 2100 3600
+Connection ~ 2100 3600
+Text Label 2000 3500 0    10   ~ 0
+GND
+Wire Wire Line
+	3000 5400 2900 5400
+Wire Wire Line
+	2900 5400 2900 5500
+Text Label 3000 5400 0    10   ~ 0
+GND
+Wire Wire Line
+	1400 5000 1400 4900
+Text Label 1400 5000 0    10   ~ 0
+GND
+Wire Wire Line
+	2000 5100 2100 5100
+Wire Wire Line
+	2100 5100 2100 5200
+Wire Wire Line
+	2100 5200 2100 5400
+Wire Wire Line
+	2000 5200 2100 5200
+Connection ~ 2100 5200
+Text Label 2000 5100 0    10   ~ 0
+GND
+Wire Wire Line
+	6000 2100 5900 2100
+Wire Wire Line
+	5900 2100 5900 2200
+Text Label 6000 2100 0    10   ~ 0
+GND
+Wire Wire Line
+	4400 1700 4400 1600
+Text Label 4400 1700 0    10   ~ 0
+GND
+Wire Wire Line
+	5000 1800 5100 1800
+Wire Wire Line
+	5100 1800 5100 1900
+Wire Wire Line
+	5100 1900 5100 2100
+Wire Wire Line
+	5000 1900 5100 1900
+Connection ~ 5100 1900
+Text Label 5000 1800 0    10   ~ 0
+GND
+Wire Wire Line
+	6000 3900 5900 3900
+Wire Wire Line
+	5900 3900 5900 4000
+Text Label 6000 3900 0    10   ~ 0
+GND
+Wire Wire Line
+	4400 3500 4400 3400
+Text Label 4400 3500 0    10   ~ 0
+GND
+Wire Wire Line
+	5000 3600 5100 3600
+Wire Wire Line
+	5100 3600 5100 3700
+Wire Wire Line
+	5100 3700 5100 3900
+Wire Wire Line
+	5000 3700 5100 3700
+Connection ~ 5100 3700
+Text Label 5000 3600 0    10   ~ 0
+GND
+Wire Wire Line
+	6000 5500 5900 5500
+Wire Wire Line
+	5900 5500 5900 5600
+Text Label 6000 5500 0    10   ~ 0
+GND
+Wire Wire Line
+	4400 5100 4400 5000
+Text Label 4400 5100 0    10   ~ 0
+GND
+Wire Wire Line
+	5000 5200 5100 5200
+Wire Wire Line
+	5100 5200 5100 5300
+Wire Wire Line
+	5100 5300 5100 5500
+Wire Wire Line
+	5000 5300 5100 5300
+Connection ~ 5100 5300
+Text Label 5000 5200 0    10   ~ 0
+GND
+Wire Wire Line
+	2600 7200 2600 7300
+Text Label 2600 7200 0    10   ~ 0
+GND
+Wire Wire Line
+	4900 7200 4900 7300
+Text Label 4900 7200 0    10   ~ 0
+GND
+Wire Wire Line
+	1700 7200 1800 7200
+Wire Wire Line
+	1800 7200 1800 7300
+Wire Wire Line
+	1800 7300 1800 7400
+Wire Wire Line
+	1700 7300 1800 7300
+Connection ~ 1800 7300
+Text Label 1700 7200 0    10   ~ 0
+GND
+Wire Wire Line
+	4000 7200 4100 7200
+Wire Wire Line
+	4100 7200 4100 7300
+Wire Wire Line
+	4100 7300 4100 7400
+Wire Wire Line
+	4000 7300 4100 7300
+Connection ~ 4100 7300
+Text Label 4000 7200 0    10   ~ 0
+GND
+Wire Wire Line
+	4600 7500 4600 7600
+Text Label 4600 7500 0    10   ~ 0
+GND
+Wire Wire Line
+	2300 7500 2300 7600
+Text Label 2300 7500 0    10   ~ 0
+GND
+Wire Wire Line
+	8100 3800 8100 3900
+Text Label 8100 3800 0    10   ~ 0
+GND
+Wire Wire Line
+	12400 5100 13000 5100
+Wire Wire Line
+	13000 5100 13000 5200
+Text Label 12400 5100 0    10   ~ 0
+GND
+Wire Wire Line
+	8500 8900 8500 9000
+Wire Wire Line
+	8500 9000 8500 9100
+Wire Wire Line
+	8100 8900 8100 9000
+Wire Wire Line
+	8100 9000 8500 9000
+Connection ~ 8500 9000
+Text Label 8500 8900 0    10   ~ 0
+GND
+Wire Wire Line
+	11000 8900 11000 9200
+Wire Wire Line
+	11000 9200 10900 9200
+Wire Wire Line
+	10900 9200 10900 9300
+Wire Wire Line
+	10800 9100 10800 9200
+Wire Wire Line
+	10800 9200 10900 9200
+Wire Wire Line
+	11000 9200 11300 9200
+Wire Wire Line
+	11300 9200 11300 8900
+Wire Wire Line
+	11300 9200 11600 9200
+Wire Wire Line
+	11600 9200 11600 8900
+Wire Wire Line
+	11600 9200 11900 9200
+Wire Wire Line
+	11900 9200 11900 8900
+Wire Wire Line
+	10800 9200 10600 9200
+Wire Wire Line
+	10600 9200 10400 9200
+Wire Wire Line
+	10400 9200 10200 9200
+Wire Wire Line
+	10200 9200 10200 9100
+Wire Wire Line
+	10400 9100 10400 9200
+Wire Wire Line
+	10600 9100 10600 9200
+Connection ~ 10900 9200
+Connection ~ 11000 9200
+Connection ~ 10800 9200
+Connection ~ 10600 9200
+Connection ~ 10400 9200
+Connection ~ 11300 9200
+Connection ~ 11600 9200
+Text Label 11000 8900 0    10   ~ 0
+GND
+Wire Wire Line
+	9800 8900 9800 9000
+Text Label 9800 8900 0    10   ~ 0
+GND
+Wire Wire Line
+	9300 8900 9300 9000
+Text Label 9300 8900 0    10   ~ 0
+GND
+Wire Wire Line
+	12900 9100 12900 9300
+Text Label 12900 9100 0    10   ~ 0
+GND
+Wire Wire Line
+	13200 9200 13200 9300
+Text Label 13200 9200 0    10   ~ 0
+GND
+Wire Wire Line
+	13700 4800 13800 4800
+Wire Wire Line
+	13800 4800 13800 4900
+Text Label 13700 4800 0    10   ~ 0
+GND
+Wire Wire Line
+	4400 8700 4500 8700
+Wire Wire Line
+	4500 8700 4500 9100
+Wire Wire Line
+	4500 9100 4500 9200
+Wire Wire Line
+	4400 9100 4500 9100
+Connection ~ 4500 9100
+Text Label 4400 8700 0    10   ~ 0
+GND
+Wire Wire Line
+	7200 7200 7800 7200
+Wire Wire Line
+	7800 7200 7900 7200
+Wire Wire Line
+	7900 7200 7900 7300
+Wire Wire Line
+	7900 7300 7900 7400
+Wire Wire Line
+	7200 7400 7800 7400
+Wire Wire Line
+	7800 7400 7900 7400
+Wire Wire Line
+	7900 7400 8200 7400
+Wire Wire Line
+	8200 7400 8200 7500
+Wire Wire Line
+	7200 7300 7800 7300
+Wire Wire Line
+	7800 7300 7900 7300
+Connection ~ 7900 7400
+Connection ~ 7900 7300
+Connection ~ 7800 7400
+Connection ~ 7800 7300
+Connection ~ 7800 7200
+Text Label 7200 7200 0    10   ~ 0
+GND
+Wire Wire Line
+	7500 9000 7500 9100
+Text Label 7500 9000 0    10   ~ 0
+GND
+Wire Wire Line
+	6900 8900 6900 9100
+Text Label 6900 8900 0    10   ~ 0
+GND
+Wire Wire Line
+	8600 4600 8800 4600
+Wire Wire Line
+	8800 4600 8800 4500
+Wire Wire Line
+	8800 4600 9000 4600
+Wire Wire Line
+	9000 4600 9000 4400
+Wire Wire Line
+	9000 4400 9100 4400
+Connection ~ 8800 4600
+Wire Wire Line
+	8600 4200 8800 4200
+Wire Wire Line
+	8800 4200 8800 4300
+Wire Wire Line
+	8800 4200 9100 4200
+Connection ~ 8800 4200
+Wire Wire Line
+	9100 3200 9000 3200
+Wire Wire Line
+	9000 3200 8900 3200
+Wire Wire Line
+	9000 3200 9000 3100
+Connection ~ 9000 3200
+Text Label 8900 3200 2    70   ~ 0
+RESET
+Wire Wire Line
+	9700 1800 9600 1800
+Text Label 9600 1800 2    70   ~ 0
+RESET
+Wire Wire Line
+	13300 1900 13900 1900
+Wire Wire Line
+	13700 2000 14300 2000
+Wire Wire Line
+	14100 2100 14700 2100
+Wire Wire Line
+	14500 2200 15100 2200
+Wire Wire Line
+	11000 4400 11100 4400
+Text Label 11100 4400 0    70   ~ 0
+SW_RESET
+Wire Wire Line
+	4000 8600 3900 8600
+Wire Wire Line
+	3900 8600 3800 8600
+Wire Wire Line
+	4000 9000 3900 9000
+Wire Wire Line
+	3900 9000 3900 8600
+Connection ~ 3900 8600
+Text Label 3800 8600 2    70   ~ 0
+SW_RESET
+Wire Wire Line
+	13700 3200 14600 3200
+Wire Wire Line
+	13700 3300 14400 3300
+Wire Wire Line
+	14400 3300 14400 3900
+Wire Wire Line
+	14400 3900 14600 3900
+Wire Wire Line
+	13700 3400 14300 3400
+Wire Wire Line
+	14300 3400 14300 4600
+Wire Wire Line
+	14300 4600 14600 4600
+Wire Wire Line
+	13700 3500 14200 3500
+Wire Wire Line
+	14200 3500 14200 5300
+Wire Wire Line
+	14200 5300 14500 5300
+Wire Wire Line
+	13700 3600 14100 3600
+Wire Wire Line
+	14100 3600 14100 6000
+Wire Wire Line
+	14100 6000 14500 6000
+Wire Wire Line
+	13700 3700 14000 3700
+Wire Wire Line
+	14000 3700 14000 6700
+Wire Wire Line
+	14000 6700 14500 6700
+Wire Wire Line
+	15000 3200 15100 3200
+Wire Wire Line
+	15000 3900 15100 3900
+Wire Wire Line
+	15000 4600 15100 4600
+Wire Wire Line
+	9000 2600 9000 2700
+Text Label 9000 2600 0    10   ~ 0
++5V
+Wire Wire Line
+	12700 3500 12300 3500
+Wire Wire Line
+	12300 3500 12300 3400
+Text Label 12700 3500 0    10   ~ 0
++5V
+Wire Wire Line
+	10400 1600 10500 1600
+Wire Wire Line
+	10500 1600 10500 1500
+Text Label 10400 1600 0    10   ~ 0
++5V
+Wire Wire Line
+	2200 8200 2200 8300
+Text Label 2200 8200 0    10   ~ 0
++5V
+Wire Wire Line
+	2600 6100 2600 6200
+Text Label 2600 6100 0    10   ~ 0
++5V
+Wire Wire Line
+	4900 6100 4900 6200
+Text Label 4900 6100 0    10   ~ 0
++5V
+Wire Wire Line
+	4400 1000 4400 900 
+Text Label 4400 1000 0    10   ~ 0
++5V
+Wire Wire Line
+	1400 900  1400 800 
+Text Label 1400 900  0    10   ~ 0
++5V
+Wire Wire Line
+	1400 2700 1400 2600
+Text Label 1400 2700 0    10   ~ 0
++5V
+Wire Wire Line
+	1400 4300 1400 4200
+Text Label 1400 4300 0    10   ~ 0
++5V
+Wire Wire Line
+	4400 4400 4400 4300
+Text Label 4400 4400 0    10   ~ 0
++5V
+Wire Wire Line
+	4400 2800 4400 2700
+Text Label 4400 2800 0    10   ~ 0
++5V
+Wire Wire Line
+	9100 3500 9000 3500
+Wire Wire Line
+	9000 3500 9000 3600
+Wire Wire Line
+	9000 3600 9100 3600
+Wire Wire Line
+	9000 3600 8800 3600
+Connection ~ 9000 3600
+Text Label 9100 3500 0    10   ~ 0
++5V
+Wire Wire Line
+	7500 3300 7500 3400
+Wire Wire Line
+	7500 3400 7600 3400
+Text Label 7500 3300 0    10   ~ 0
++5V
+Wire Wire Line
+	12400 5000 12500 5000
+Wire Wire Line
+	12500 5000 12500 4900
+Text Label 12400 5000 0    10   ~ 0
++5V
+Wire Wire Line
+	8500 8600 8500 8500
+Wire Wire Line
+	8500 8500 8500 8400
+Wire Wire Line
+	8100 8600 8100 8500
+Wire Wire Line
+	8100 8500 8500 8500
+Wire Wire Line
+	8000 8500 8100 8500
+Connection ~ 8500 8500
+Connection ~ 8100 8500
+Text Label 8500 8600 0    10   ~ 0
++5V
+Wire Wire Line
+	10900 8300 10900 8400
+Wire Wire Line
+	10900 8400 11000 8400
+Wire Wire Line
+	11000 8400 11000 8600
+Wire Wire Line
+	10900 8400 10800 8400
+Wire Wire Line
+	10800 8400 10800 8500
+Wire Wire Line
+	11000 8400 11300 8400
+Wire Wire Line
+	11300 8400 11300 8600
+Wire Wire Line
+	11300 8400 11600 8400
+Wire Wire Line
+	11600 8400 11900 8400
+Wire Wire Line
+	11900 8400 11900 8600
+Wire Wire Line
+	11600 8600 11600 8400
+Wire Wire Line
+	10200 8500 10200 8400
+Wire Wire Line
+	10200 8400 10400 8400
+Wire Wire Line
+	10400 8400 10600 8400
+Wire Wire Line
+	10600 8400 10800 8400
+Wire Wire Line
+	10400 8500 10400 8400
+Wire Wire Line
+	10600 8500 10600 8400
+Connection ~ 10900 8400
+Connection ~ 11000 8400
+Connection ~ 10400 8400
+Connection ~ 10600 8400
+Connection ~ 11300 8400
+Connection ~ 11600 8400
+Connection ~ 10800 8400
+Text Label 10900 8300 0    10   ~ 0
++5V
+Wire Wire Line
+	9800 8600 9800 8500
+Text Label 9800 8600 0    10   ~ 0
++5V
+Wire Wire Line
+	9100 3800 9000 3800
+Text Label 9000 3800 2    70   ~ 0
+AREF
+Wire Wire Line
+	9300 8600 9300 8500
+Text Label 9300 8500 0    70   ~ 0
+AREF
+Wire Wire Line
+	11000 5300 11100 5300
+Text Label 11100 5300 0    70   ~ 0
+MOSI
+Wire Wire Line
+	12600 3200 12700 3200
+Text Label 12600 3200 2    70   ~ 0
+MOSI
+Wire Wire Line
+	10400 1700 10500 1700
+Text Label 10500 1700 0    70   ~ 0
+MOSI
+Wire Wire Line
+	11000 5400 11100 5400
+Text Label 11100 5400 0    70   ~ 0
+MISO
+Wire Wire Line
+	9700 1600 9600 1600
+Text Label 9600 1600 2    70   ~ 0
+MISO
+Wire Wire Line
+	11000 5500 11100 5500
+Text Label 11100 5500 0    70   ~ 0
+SCK
+Wire Wire Line
+	12700 3400 12600 3400
+Text Label 12600 3400 2    70   ~ 0
+SCK
+Wire Wire Line
+	9700 1700 9600 1700
+Text Label 9600 1700 2    70   ~ 0
+SCK
+Wire Wire Line
+	11000 3200 11100 3200
+Text Label 11100 3200 0    70   ~ 0
+X_CV
+Wire Wire Line
+	3500 1500 3700 1500
+Wire Wire Line
+	3700 1500 3700 1900
+Wire Wire Line
+	3700 1900 3600 1900
+Wire Wire Line
+	3700 1900 3800 1900
+Wire Wire Line
+	3400 1200 3700 1200
+Wire Wire Line
+	3700 1200 3700 1500
+Connection ~ 3700 1900
+Connection ~ 3700 1500
+Text Label 3800 1900 0    70   ~ 0
+X_CV
+Wire Wire Line
+	11000 3300 11100 3300
+Text Label 11100 3300 0    70   ~ 0
+Y_CV
+Wire Wire Line
+	3500 3300 3700 3300
+Wire Wire Line
+	3700 3300 3700 3700
+Wire Wire Line
+	3700 3700 3600 3700
+Wire Wire Line
+	3700 3700 3800 3700
+Wire Wire Line
+	3400 3000 3700 3000
+Wire Wire Line
+	3700 3000 3700 3300
+Connection ~ 3700 3700
+Connection ~ 3700 3300
+Text Label 3800 3700 0    70   ~ 0
+Y_CV
+Wire Wire Line
+	11000 3400 11100 3400
+Text Label 11100 3400 0    70   ~ 0
+RND_CV
+Wire Wire Line
+	3500 4900 3700 4900
+Wire Wire Line
+	3700 4900 3700 5300
+Wire Wire Line
+	3700 5300 3600 5300
+Wire Wire Line
+	3700 5300 3800 5300
+Wire Wire Line
+	3400 4600 3700 4600
+Wire Wire Line
+	3700 4600 3700 4900
+Connection ~ 3700 5300
+Connection ~ 3700 4900
+Text Label 3800 5300 0    70   ~ 0
+RND_CV
+Wire Wire Line
+	11000 3500 11100 3500
+Text Label 11100 3500 0    70   ~ 0
+CH1_CV
+Wire Wire Line
+	6500 1600 6700 1600
+Wire Wire Line
+	6700 1600 6700 2000
+Wire Wire Line
+	6700 2000 6600 2000
+Wire Wire Line
+	6700 2000 6800 2000
+Wire Wire Line
+	6400 1300 6700 1300
+Wire Wire Line
+	6700 1300 6700 1600
+Connection ~ 6700 2000
+Connection ~ 6700 1600
+Text Label 6800 2000 0    70   ~ 0
+CH1_CV
+Wire Wire Line
+	11000 3600 11100 3600
+Text Label 11100 3600 0    70   ~ 0
+CH2_CV
+Wire Wire Line
+	6500 3400 6700 3400
+Wire Wire Line
+	6700 3400 6700 3800
+Wire Wire Line
+	6700 3800 6600 3800
+Wire Wire Line
+	6700 3800 6800 3800
+Wire Wire Line
+	6400 3100 6700 3100
+Wire Wire Line
+	6700 3100 6700 3400
+Connection ~ 6700 3800
+Connection ~ 6700 3400
+Text Label 6800 3800 0    70   ~ 0
+CH2_CV
+Wire Wire Line
+	11000 3700 11100 3700
+Text Label 11100 3700 0    70   ~ 0
+CH3_CV
+Wire Wire Line
+	6500 5000 6700 5000
+Wire Wire Line
+	6700 5000 6700 5400
+Wire Wire Line
+	6700 5400 6600 5400
+Wire Wire Line
+	6700 5400 6800 5400
+Wire Wire Line
+	6400 4700 6700 4700
+Wire Wire Line
+	6700 4700 6700 5000
+Connection ~ 6700 5400
+Connection ~ 6700 5000
+Text Label 6800 5400 0    70   ~ 0
+CH3_CV
+Wire Wire Line
+	11000 3800 11100 3800
+Text Label 11100 3800 0    70   ~ 0
+TEMPO
+Wire Wire Line
+	2400 8600 2500 8600
+Text Label 2500 8600 0    70   ~ 0
+TEMPO
+Wire Wire Line
+	11000 4600 11100 4600
+Text Label 11100 4600 0    70   ~ 0
+LED_CH3
+Wire Wire Line
+	12800 2000 13300 2000
+Text Label 12800 2000 2    70   ~ 0
+LED_CH3
+Wire Wire Line
+	11000 4700 11100 4700
+Text Label 11100 4700 0    70   ~ 0
+LED_CH2
+Wire Wire Line
+	12800 2100 13700 2100
+Text Label 12800 2100 2    70   ~ 0
+LED_CH2
+Wire Wire Line
+	11000 4800 11100 4800
+Text Label 11100 4800 0    70   ~ 0
+LED_CH1
+Wire Wire Line
+	12800 2200 14100 2200
+Text Label 12800 2200 2    70   ~ 0
+LED_CH1
+Wire Wire Line
+	11000 4500 11100 4500
+Text Label 11100 4500 0    70   ~ 0
+LED_CLOCK
+Wire Wire Line
+	12800 1900 12900 1900
+Text Label 12800 1900 2    70   ~ 0
+LED_CLOCK
+Wire Wire Line
+	2600 6800 2600 6700
+Wire Wire Line
+	2600 6700 2600 6600
+Wire Wire Line
+	2600 6700 2700 6700
+Connection ~ 2600 6700
+Text Label 2700 6700 0    70   ~ 0
+IN_CLOCK
+Wire Wire Line
+	11000 4200 11100 4200
+Text Label 11100 4200 0    70   ~ 0
+IN_CLOCK
+Wire Wire Line
+	4900 6800 4900 6700
+Wire Wire Line
+	4900 6700 4900 6600
+Wire Wire Line
+	4900 6700 5000 6700
+Connection ~ 4900 6700
+Text Label 5000 6700 0    70   ~ 0
+IN_RESET
+Wire Wire Line
+	11000 4300 11100 4300
+Text Label 11100 4300 0    70   ~ 0
+IN_RESET
+Wire Wire Line
+	14900 6700 15000 6700
+Wire Wire Line
+	14900 6000 15000 6000
+Wire Wire Line
+	14900 5300 15000 5300
+Wire Wire Line
+	3100 1500 2900 1500
+Wire Wire Line
+	2900 1500 2900 1800
+Wire Wire Line
+	2900 1800 3000 1800
+Wire Wire Line
+	3100 1200 2900 1200
+Wire Wire Line
+	2900 1200 2900 1500
+Wire Wire Line
+	2800 1200 2900 1200
+Wire Wire Line
+	2800 1500 2900 1500
+Wire Wire Line
+	2800 1800 2900 1800
+Connection ~ 2900 1500
+Connection ~ 2900 1800
+Connection ~ 2900 1200
+Wire Wire Line
+	1600 1200 2400 1200
+Wire Wire Line
+	2000 1500 2400 1500
+Wire Wire Line
+	3100 3300 2900 3300
+Wire Wire Line
+	2900 3300 2900 3600
+Wire Wire Line
+	2900 3600 3000 3600
+Wire Wire Line
+	3100 3000 2900 3000
+Wire Wire Line
+	2900 3000 2900 3300
+Wire Wire Line
+	2800 3000 2900 3000
+Wire Wire Line
+	2800 3300 2900 3300
+Wire Wire Line
+	2800 3600 2900 3600
+Connection ~ 2900 3300
+Connection ~ 2900 3600
+Connection ~ 2900 3000
+Wire Wire Line
+	1600 3000 2400 3000
+Wire Wire Line
+	2000 3300 2400 3300
+Wire Wire Line
+	3100 4900 2900 4900
+Wire Wire Line
+	2900 4900 2900 5200
+Wire Wire Line
+	2900 5200 3000 5200
+Wire Wire Line
+	3100 4600 2900 4600
+Wire Wire Line
+	2900 4600 2900 4900
+Wire Wire Line
+	2800 4600 2900 4600
+Wire Wire Line
+	2800 4900 2900 4900
+Wire Wire Line
+	2800 5200 2900 5200
+Connection ~ 2900 4900
+Connection ~ 2900 5200
+Connection ~ 2900 4600
+Wire Wire Line
+	1600 4600 2400 4600
+Wire Wire Line
+	2000 4900 2400 4900
+Wire Wire Line
+	6100 1600 5900 1600
+Wire Wire Line
+	5900 1600 5900 1900
+Wire Wire Line
+	5900 1900 6000 1900
+Wire Wire Line
+	6100 1300 5900 1300
+Wire Wire Line
+	5900 1300 5900 1600
+Wire Wire Line
+	5800 1300 5900 1300
+Wire Wire Line
+	5800 1600 5900 1600
+Wire Wire Line
+	5800 1900 5900 1900
+Connection ~ 5900 1600
+Connection ~ 5900 1900
+Connection ~ 5900 1300
+Wire Wire Line
+	4600 1300 5400 1300
+Wire Wire Line
+	5000 1600 5400 1600
+Wire Wire Line
+	6100 3400 5900 3400
+Wire Wire Line
+	5900 3400 5900 3700
+Wire Wire Line
+	5900 3700 6000 3700
+Wire Wire Line
+	6100 3100 5900 3100
+Wire Wire Line
+	5900 3100 5900 3400
+Wire Wire Line
+	5800 3100 5900 3100
+Wire Wire Line
+	5800 3400 5900 3400
+Wire Wire Line
+	5800 3700 5900 3700
+Connection ~ 5900 3400
+Connection ~ 5900 3700
+Connection ~ 5900 3100
+Wire Wire Line
+	4600 3100 5400 3100
+Wire Wire Line
+	5000 3400 5400 3400
+Wire Wire Line
+	6100 5000 5900 5000
+Wire Wire Line
+	5900 5000 5900 5300
+Wire Wire Line
+	5900 5300 6000 5300
+Wire Wire Line
+	6100 4700 5900 4700
+Wire Wire Line
+	5900 4700 5900 5000
+Wire Wire Line
+	5800 4700 5900 4700
+Wire Wire Line
+	5800 5000 5900 5000
+Wire Wire Line
+	5800 5300 5900 5300
+Connection ~ 5900 5000
+Connection ~ 5900 5300
+Connection ~ 5900 4700
+Wire Wire Line
+	4600 4700 5400 4700
+Wire Wire Line
+	5000 5000 5400 5000
+Wire Wire Line
+	2200 7000 2300 7000
+Wire Wire Line
+	2300 7000 2400 7000
+Wire Wire Line
+	2300 7100 2300 7000
+Connection ~ 2300 7000
+Wire Wire Line
+	1800 7000 1700 7000
+Wire Wire Line
+	4500 7000 4600 7000
+Wire Wire Line
+	4600 7000 4700 7000
+Wire Wire Line
+	4600 7100 4600 7000
+Connection ~ 4600 7000
+Wire Wire Line
+	4000 7000 4100 7000
+Wire Wire Line
+	11000 5200 11100 5200
+Text Label 11100 5200 0    70   ~ 0
+SS
+Wire Wire Line
+	12700 3700 12600 3700
+Text Label 12600 3700 2    70   ~ 0
+SS
+Wire Wire Line
+	8000 3400 8100 3400
+Wire Wire Line
+	8100 3400 8100 3500
+Wire Wire Line
+	9100 3400 8100 3400
+Connection ~ 8100 3400
+Wire Wire Line
+	2400 1800 2300 1800
+Text Label 2300 1800 3    70   ~ 0
+REF_-5
+Wire Wire Line
+	2400 3600 2300 3600
+Text Label 2300 3600 3    70   ~ 0
+REF_-5
+Wire Wire Line
+	2400 5200 2300 5200
+Text Label 2300 5200 3    70   ~ 0
+REF_-5
+Wire Wire Line
+	5400 1900 5300 1900
+Text Label 5300 1900 3    70   ~ 0
+REF_-5
+Wire Wire Line
+	5400 3700 5300 3700
+Text Label 5300 3700 3    70   ~ 0
+REF_-5
+Wire Wire Line
+	5400 5300 5300 5300
+Text Label 5300 5300 3    70   ~ 0
+REF_-5
+Wire Wire Line
+	12900 8900 12900 8800
+Wire Wire Line
+	12900 8800 12900 8700
+Wire Wire Line
+	12900 8800 13200 8800
+Wire Wire Line
+	13200 8800 13200 8900
+Wire Wire Line
+	13200 8800 13300 8800
+Connection ~ 12900 8800
+Connection ~ 13200 8800
+Text Label 13300 8800 0    70   ~ 0
+REF_-5
+Wire Wire Line
+	13700 4600 13800 4600
+Wire Wire Line
+	13800 4600 13800 3900
+Wire Wire Line
+	13800 3900 13700 3900
+Wire Wire Line
+	13700 3800 13900 3800
+Wire Wire Line
+	13900 3800 13900 4700
+Wire Wire Line
+	13900 4700 13700 4700
+Wire Wire Line
+	11000 4100 11100 4100
+Text Label 11100 4100 0    70   ~ 0
+IN_MIDI
+Wire Wire Line
+	12400 5200 12500 5200
+Text Label 12500 5200 0    70   ~ 0
+IN_MIDI
+Wire Wire Line
+	12900 8300 12900 8200
+Text Label 12900 8300 0    10   ~ 0
+VEE
+Wire Wire Line
+	7100 7500 7200 7500
+Wire Wire Line
+	7200 7500 7800 7500
+Connection ~ 7200 7500
+Text Label 7100 7500 0    10   ~ 0
+VEE
+Wire Wire Line
+	7200 7100 7100 7100
+Wire Wire Line
+	6900 8500 7000 8500
+Wire Wire Line
+	6900 8400 6900 8500
+Wire Wire Line
+	6900 8500 6900 8600
+Connection ~ 6900 8500
+Text Label 6900 8500 0    10   ~ 0
+VCC
+Wire Wire Line
+	6900 7100 6800 7100
+Wire Wire Line
+	6800 7000 6800 7100
+Text Label 6900 7100 0    10   ~ 0
+VCC
+$Comp
+L grids_v02-eagle-import:A3L-LOC #FRAME1
+U 1 1 73DA64CA
+P 900 10600
+F 0 "#FRAME1" H 900 10600 50  0001 C CNN
+F 1 "A3L-LOC" H 900 10600 50  0001 C CNN
+F 2 "" H 900 10600 50  0001 C CNN
+F 3 "" H 900 10600 50  0001 C CNN
+	1    900  10600
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R3
+U 1 1 26020ECB
+P 9000 2900
+F 0 "R3" H 8850 2959 59  0000 L BNN
+F 1 "10k" H 8850 2770 59  0000 L BNN
+F 2 "grids_v02:R0603" H 9000 2900 50  0001 C CNN
+F 3 "" H 9000 2900 50  0001 C CNN
+	1    9000 2900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:CRYSTALHC49UP Q1
+U 1 1 4C6A443B
+P 8800 4400
+F 0 "Q1" H 8900 4440 59  0000 L BNN
+F 1 "20MHz" H 8900 4300 59  0000 L BNN
+F 2 "grids_v02:HC49UP" H 8800 4400 50  0001 C CNN
+F 3 "" H 8800 4400 50  0001 C CNN
+	1    8800 4400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:C-USC0603 C2
+U 1 1 1E19C631
+P 8400 4200
+F 0 "C2" H 8440 4225 59  0000 L BNN
+F 1 "18p" H 8440 4035 59  0000 L BNN
+F 2 "grids_v02:C0603" H 8400 4200 50  0001 C CNN
+F 3 "" H 8400 4200 50  0001 C CNN
+	1    8400 4200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:C-USC0603 C7
+U 1 1 CEF095AF
+P 8400 4600
+F 0 "C7" H 8440 4625 59  0000 L BNN
+F 1 "18p" H 8440 4435 59  0000 L BNN
+F 2 "grids_v02:C0603" H 8400 4600 50  0001 C CNN
+F 3 "" H 8400 4600 50  0001 C CNN
+	1    8400 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND07
+U 1 1 9CDE76EF
+P 8200 4800
+F 0 "#GND07" H 8200 4800 50  0001 C CNN
+F 1 "GND" H 8100 4700 59  0000 L BNN
+F 2 "" H 8200 4800 50  0001 C CNN
+F 3 "" H 8200 4800 50  0001 C CNN
+	1    8200 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:AVR_SPI_PRG_6PTH J15
+U 1 1 C7DDA3DA
+P 10000 1700
+F 0 "J15" H 9830 1930 59  0000 L BNN
+F 1 "AVR_SPI_PRG_6PTH" H 9840 1400 59  0000 L BNN
+F 2 "grids_v02:2X3" H 10000 1700 50  0001 C CNN
+F 3 "" H 10000 1700 50  0001 C CNN
+	1    10000 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R4
+U 1 1 A2882DFC
+P 13100 1900
+F 0 "R4" H 12950 1959 59  0000 L BNN
+F 1 "100" H 12950 1770 59  0000 L BNN
+F 2 "grids_v02:R0603" H 13100 1900 50  0001 C CNN
+F 3 "" H 13100 1900 50  0001 C CNN
+	1    13100 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R41
+U 1 1 22D28419
+P 13500 2000
+F 0 "R41" H 13350 2059 59  0000 L BNN
+F 1 "100" H 13350 1870 59  0000 L BNN
+F 2 "grids_v02:R0603" H 13500 2000 50  0001 C CNN
+F 3 "" H 13500 2000 50  0001 C CNN
+	1    13500 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R40
+U 1 1 101C6958
+P 13900 2100
+F 0 "R40" H 13750 2159 59  0000 L BNN
+F 1 "100" H 13750 1970 59  0000 L BNN
+F 2 "grids_v02:R0603" H 13900 2100 50  0001 C CNN
+F 3 "" H 13900 2100 50  0001 C CNN
+	1    13900 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R39
+U 1 1 56C54024
+P 14300 2200
+F 0 "R39" H 14150 2259 59  0000 L BNN
+F 1 "100" H 14150 2070 59  0000 L BNN
+F 2 "grids_v02:R0603" H 14300 2200 50  0001 C CNN
+F 3 "" H 14300 2200 50  0001 C CNN
+	1    14300 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:LED3MM LED4
+U 1 1 0D206A19
+P 14400 2000
+F 0 "LED4" V 14540 1820 59  0000 L BNN
+F 1 "LED3MM" V 14625 1820 59  0000 L BNN
+F 2 "grids_v02:LED3MM" H 14400 2000 50  0001 C CNN
+F 3 "" H 14400 2000 50  0001 C CNN
+	1    14400 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:LED3MM LED3
+U 1 1 57046BE5
+P 14800 2100
+F 0 "LED3" V 14940 1920 59  0000 L BNN
+F 1 "LED3MM" V 15025 1920 59  0000 L BNN
+F 2 "grids_v02:LED3MM" H 14800 2100 50  0001 C CNN
+F 3 "" H 14800 2100 50  0001 C CNN
+	1    14800 2100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:LED3MM LED2
+U 1 1 6A31474D
+P 15200 2200
+F 0 "LED2" V 15340 2020 59  0000 L BNN
+F 1 "LED3MM" V 15425 2020 59  0000 L BNN
+F 2 "grids_v02:LED3MM" H 15200 2200 50  0001 C CNN
+F 3 "" H 15200 2200 50  0001 C CNN
+	1    15200 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND033
+U 1 1 8D923520
+P 15500 2400
+F 0 "#GND033" H 15500 2400 50  0001 C CNN
+F 1 "GND" H 15400 2300 59  0000 L BNN
+F 2 "" H 15500 2400 50  0001 C CNN
+F 3 "" H 15500 2400 50  0001 C CNN
+	1    15500 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:FIDUCIAL1X2 F2
+U 1 1 3F277CF6
+P 15200 9400
+F 0 "F2" H 15200 9400 50  0001 C CNN
+F 1 "FIDUCIAL1X2" H 15200 9400 50  0001 C CNN
+F 2 "grids_v02:FIDUCIAL-1X2" H 15200 9400 50  0001 C CNN
+F 3 "" H 15200 9400 50  0001 C CNN
+	1    15200 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:FIDUCIAL1X2 F1
+U 1 1 CDD216A9
+P 15400 9400
+F 0 "F1" H 15400 9400 50  0001 C CNN
+F 1 "FIDUCIAL1X2" H 15400 9400 50  0001 C CNN
+F 2 "grids_v02:FIDUCIAL-1X2" H 15400 9400 50  0001 C CNN
+F 3 "" H 15400 9400 50  0001 C CNN
+	1    15400 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:FIDUCIAL1X2 F4
+U 1 1 53CFCF21
+P 15600 9400
+F 0 "F4" H 15600 9400 50  0001 C CNN
+F 1 "FIDUCIAL1X2" H 15600 9400 50  0001 C CNN
+F 2 "grids_v02:FIDUCIAL-1X2" H 15600 9400 50  0001 C CNN
+F 3 "" H 15600 9400 50  0001 C CNN
+	1    15600 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:FIDUCIAL1X2 F3
+U 1 1 DDB055F8
+P 15800 9400
+F 0 "F3" H 15800 9400 50  0001 C CNN
+F 1 "FIDUCIAL1X2" H 15800 9400 50  0001 C CNN
+F 2 "grids_v02:FIDUCIAL-1X2" H 15800 9400 50  0001 C CNN
+F 3 "" H 15800 9400 50  0001 C CNN
+	1    15800 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R45
+U 1 1 26D7319A
+P 14800 3200
+F 0 "R45" H 14650 3259 59  0000 L BNN
+F 1 "1.0k" H 14650 3070 59  0000 L BNN
+F 2 "grids_v02:R0603" H 14800 3200 50  0001 C CNN
+F 3 "" H 14800 3200 50  0001 C CNN
+	1    14800 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R44
+U 1 1 A0964CFD
+P 14800 3900
+F 0 "R44" H 14650 3959 59  0000 L BNN
+F 1 "1.0k" H 14650 3770 59  0000 L BNN
+F 2 "grids_v02:R0603" H 14800 3900 50  0001 C CNN
+F 3 "" H 14800 3900 50  0001 C CNN
+	1    14800 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R43
+U 1 1 60A9A29D
+P 14800 4600
+F 0 "R43" H 14650 4659 59  0000 L BNN
+F 1 "1.0k" H 14650 4470 59  0000 L BNN
+F 2 "grids_v02:R0603" H 14800 4600 50  0001 C CNN
+F 3 "" H 14800 4600 50  0001 C CNN
+	1    14800 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R49
+U 1 1 D0F8C4A6
+P 14700 5300
+F 0 "R49" H 14550 5359 59  0000 L BNN
+F 1 "1.0k" H 14550 5170 59  0000 L BNN
+F 2 "grids_v02:R0603" H 14700 5300 50  0001 C CNN
+F 3 "" H 14700 5300 50  0001 C CNN
+	1    14700 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R48
+U 1 1 4937C5B1
+P 14700 6000
+F 0 "R48" H 14550 6059 59  0000 L BNN
+F 1 "1.0k" H 14550 5870 59  0000 L BNN
+F 2 "grids_v02:R0603" H 14700 6000 50  0001 C CNN
+F 3 "" H 14700 6000 50  0001 C CNN
+	1    14700 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R47
+U 1 1 ED1EE365
+P 14700 6700
+F 0 "R47" H 14550 6759 59  0000 L BNN
+F 1 "1.0k" H 14550 6570 59  0000 L BNN
+F 2 "grids_v02:R0603" H 14700 6700 50  0001 C CNN
+F 3 "" H 14700 6700 50  0001 C CNN
+	1    14700 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:PJ301WQP J8
+U 1 1 5B92CF69
+P 15300 3300
+F 0 "J8" H 15200 3460 59  0000 L BNN
+F 1 "PJ301WQP" H 15300 3300 50  0001 C CNN
+F 2 "grids_v02:WQP_PJ_301BM" H 15300 3300 50  0001 C CNN
+F 3 "" H 15300 3300 50  0001 C CNN
+	1    15300 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:PJ301WQP J9
+U 1 1 5EBF55DB
+P 15300 4000
+F 0 "J9" H 15200 4160 59  0000 L BNN
+F 1 "PJ301WQP" H 15300 4000 50  0001 C CNN
+F 2 "grids_v02:WQP_PJ_301BM" H 15300 4000 50  0001 C CNN
+F 3 "" H 15300 4000 50  0001 C CNN
+	1    15300 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:PJ301WQP J10
+U 1 1 A8F50699
+P 15300 4700
+F 0 "J10" H 15200 4860 59  0000 L BNN
+F 1 "PJ301WQP" H 15300 4700 50  0001 C CNN
+F 2 "grids_v02:WQP_PJ_301BM" H 15300 4700 50  0001 C CNN
+F 3 "" H 15300 4700 50  0001 C CNN
+	1    15300 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND029
+U 1 1 BFC01DE5
+P 15000 4400
+F 0 "#GND029" H 15000 4400 50  0001 C CNN
+F 1 "GND" H 14900 4300 59  0000 L BNN
+F 2 "" H 15000 4400 50  0001 C CNN
+F 3 "" H 15000 4400 50  0001 C CNN
+	1    15000 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND034
+U 1 1 0FD0C583
+P 15000 5100
+F 0 "#GND034" H 15000 5100 50  0001 C CNN
+F 1 "GND" H 14900 5000 59  0000 L BNN
+F 2 "" H 15000 5100 50  0001 C CNN
+F 3 "" H 15000 5100 50  0001 C CNN
+	1    15000 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND035
+U 1 1 CF03C53C
+P 15000 3700
+F 0 "#GND035" H 15000 3700 50  0001 C CNN
+F 1 "GND" H 14900 3600 59  0000 L BNN
+F 2 "" H 15000 3700 50  0001 C CNN
+F 3 "" H 15000 3700 50  0001 C CNN
+	1    15000 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:PJ301WQP J12
+U 1 1 551BD728
+P 15200 5400
+F 0 "J12" H 15100 5560 59  0000 L BNN
+F 1 "PJ301WQP" H 15200 5400 50  0001 C CNN
+F 2 "grids_v02:WQP_PJ_301BM" H 15200 5400 50  0001 C CNN
+F 3 "" H 15200 5400 50  0001 C CNN
+	1    15200 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:PJ301WQP J13
+U 1 1 C7EC22CC
+P 15200 6100
+F 0 "J13" H 15100 6260 59  0000 L BNN
+F 1 "PJ301WQP" H 15200 6100 50  0001 C CNN
+F 2 "grids_v02:WQP_PJ_301BM" H 15200 6100 50  0001 C CNN
+F 3 "" H 15200 6100 50  0001 C CNN
+	1    15200 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:PJ301WQP J14
+U 1 1 B2B62C81
+P 15200 6800
+F 0 "J14" H 15100 6960 59  0000 L BNN
+F 1 "PJ301WQP" H 15200 6800 50  0001 C CNN
+F 2 "grids_v02:WQP_PJ_301BM" H 15200 6800 50  0001 C CNN
+F 3 "" H 15200 6800 50  0001 C CNN
+	1    15200 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND036
+U 1 1 397F6EFB
+P 14900 6500
+F 0 "#GND036" H 14900 6500 50  0001 C CNN
+F 1 "GND" H 14800 6400 59  0000 L BNN
+F 2 "" H 14900 6500 50  0001 C CNN
+F 3 "" H 14900 6500 50  0001 C CNN
+	1    14900 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND038
+U 1 1 9C9B1271
+P 14900 7200
+F 0 "#GND038" H 14900 7200 50  0001 C CNN
+F 1 "GND" H 14800 7100 59  0000 L BNN
+F 2 "" H 14900 7200 50  0001 C CNN
+F 3 "" H 14900 7200 50  0001 C CNN
+	1    14900 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND040
+U 1 1 E4BD4CA6
+P 14900 5800
+F 0 "#GND040" H 14900 5800 50  0001 C CNN
+F 1 "GND" H 14800 5700 59  0000 L BNN
+F 2 "" H 14900 5800 50  0001 C CNN
+F 3 "" H 14900 5800 50  0001 C CNN
+	1    14900 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:ATMEGA168 IC1
+U 1 1 B60546AB
+P 10000 4200
+F 0 "IC1" H 9300 2700 59  0000 L BNN
+F 1 "ATMEGA328P-AU" H 9300 5320 59  0000 L BNN
+F 2 "grids_v02:TQFP32-08" H 10000 4200 50  0001 C CNN
+F 3 "" H 10000 4200 50  0001 C CNN
+	1    10000 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+012
+U 1 1 E517971B
+P 9000 2500
+F 0 "#P+012" H 9000 2500 50  0001 C CNN
+F 1 "+5V" V 8900 2300 59  0000 L BNN
+F 2 "" H 9000 2500 50  0001 C CNN
+F 3 "" H 9000 2500 50  0001 C CNN
+	1    9000 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+013
+U 1 1 9B33CC1C
+P 8800 3500
+F 0 "#P+013" H 8800 3500 50  0001 C CNN
+F 1 "+5V" V 8700 3300 59  0000 L BNN
+F 2 "" H 8800 3500 50  0001 C CNN
+F 3 "" H 8800 3500 50  0001 C CNN
+	1    8800 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND06
+U 1 1 A07C0193
+P 9000 5600
+F 0 "#GND06" H 9000 5600 50  0001 C CNN
+F 1 "GND" H 8900 5500 59  0000 L BNN
+F 2 "" H 9000 5600 50  0001 C CNN
+F 3 "" H 9000 5600 50  0001 C CNN
+	1    9000 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:74595D IC6
+U 1 1 6A4BA564
+P 13200 3600
+F 0 "IC6" H 12900 4125 59  0000 L BNN
+F 1 "74595D" H 12900 2900 59  0001 L BNN
+F 2 "grids_v02:SO16" H 13200 3600 50  0001 C CNN
+F 3 "" H 13200 3600 50  0001 C CNN
+	1    13200 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:74595D IC6
+U 2 1 6A4BA568
+P 10600 8800
+F 0 "IC6" H 10575 8775 59  0000 L BNN
+F 1 "74595D" H 10300 8100 59  0001 L BNN
+F 2 "grids_v02:SO16" H 10600 8800 50  0001 C CNN
+F 3 "" H 10600 8800 50  0001 C CNN
+	2    10600 8800
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND018
+U 1 1 E0081D19
+P 12600 4300
+F 0 "#GND018" H 12600 4300 50  0001 C CNN
+F 1 "GND" H 12500 4200 59  0000 L BNN
+F 2 "" H 12600 4300 50  0001 C CNN
+F 3 "" H 12600 4300 50  0001 C CNN
+	1    12600 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+014
+U 1 1 A9B0ECED
+P 12300 3300
+F 0 "#P+014" H 12300 3300 50  0001 C CNN
+F 1 "+5V" V 12200 3100 59  0000 L BNN
+F 2 "" H 12300 3300 50  0001 C CNN
+F 3 "" H 12300 3300 50  0001 C CNN
+	1    12300 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+017
+U 1 1 E83F5DEA
+P 10500 1400
+F 0 "#P+017" H 10500 1400 50  0001 C CNN
+F 1 "+5V" V 10400 1200 59  0000 L BNN
+F 2 "" H 10500 1400 50  0001 C CNN
+F 3 "" H 10500 1400 50  0001 C CNN
+	1    10500 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND041
+U 1 1 D9BFE6C2
+P 10500 2000
+F 0 "#GND041" H 10500 2000 50  0001 C CNN
+F 1 "GND" H 10400 1900 59  0000 L BNN
+F 2 "" H 10500 2000 50  0001 C CNN
+F 3 "" H 10500 2000 50  0001 C CNN
+	1    10500 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:POT_USVERTICAL_PS R1
+U 1 1 468AFC85
+P 2200 8600
+F 0 "R1" V 2000 8500 59  0000 L BNN
+F 1 "10kB" V 2100 8500 59  0000 L BNN
+F 2 "grids_v02:ALPS_POT_VERTICAL_PS" H 2200 8600 50  0001 C CNN
+F 3 "" H 2200 8600 50  0001 C CNN
+	1    2200 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+011
+U 1 1 FBD5C941
+P 2200 8100
+F 0 "#P+011" H 2200 8100 50  0001 C CNN
+F 1 "+5V" V 2100 7900 59  0000 L BNN
+F 2 "" H 2200 8100 50  0001 C CNN
+F 3 "" H 2200 8100 50  0001 C CNN
+	1    2200 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND042
+U 1 1 C4E41BBE
+P 2200 9100
+F 0 "#GND042" H 2200 9100 50  0001 C CNN
+F 1 "GND" H 2100 9000 59  0000 L BNN
+F 2 "" H 2200 9100 50  0001 C CNN
+F 3 "" H 2200 9100 50  0001 C CNN
+	1    2200 9100
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R30
+U 1 1 94086022
+P 3300 1500
+F 0 "R30" H 3150 1559 59  0000 L BNN
+F 1 "100k" H 3150 1370 59  0000 L BNN
+F 2 "grids_v02:R0603" H 3300 1500 50  0001 C CNN
+F 3 "" H 3300 1500 50  0001 C CNN
+	1    3300 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R31
+U 1 1 3D80017B
+P 2600 1200
+F 0 "R31" H 2450 1259 59  0000 L BNN
+F 1 "100k" H 2450 1070 59  0000 L BNN
+F 2 "grids_v02:R0603" H 2600 1200 50  0001 C CNN
+F 3 "" H 2600 1200 50  0001 C CNN
+	1    2600 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND015
+U 1 1 257B06B4
+P 2900 2200
+F 0 "#GND015" H 2900 2200 50  0001 C CNN
+F 1 "GND" H 2800 2100 59  0000 L BNN
+F 2 "" H 2900 2200 50  0001 C CNN
+F 3 "" H 2900 2200 50  0001 C CNN
+	1    2900 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:POT_USVERTICAL_PS R25
+U 1 1 9746DD13
+P 1400 1200
+F 0 "R25" V 1200 1100 59  0000 L BNN
+F 1 "10kB" V 1300 1100 59  0000 L BNN
+F 2 "grids_v02:ALPS_POT_VERTICAL_PS" H 1400 1200 50  0001 C CNN
+F 3 "" H 1400 1200 50  0001 C CNN
+	1    1400 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:PJ301WQP J3
+U 1 1 D6A0AFFD
+P 1800 1600
+F 0 "J3" H 1700 1760 59  0000 L BNN
+F 1 "PJ301WQP" H 1800 1600 50  0001 C CNN
+F 2 "grids_v02:WQP_PJ_301BM" H 1800 1600 50  0001 C CNN
+F 3 "" H 1800 1600 50  0001 C CNN
+	1    1800 1600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:TL072D IC4
+U 1 1 7CB8E2C7
+P 3300 5300
+F 0 "IC4" H 3400 5425 59  0001 L BNN
+F 1 "MCP6002" H 3400 5100 59  0001 L BNN
+F 2 "grids_v02:SO08" H 3300 5300 50  0001 C CNN
+F 3 "" H 3300 5300 50  0001 C CNN
+	1    3300 5300
+	1    0    0    1   
+$EndComp
+$Comp
+L grids_v02-eagle-import:TL072D IC4
+U 2 1 7CB8E2CB
+P 6300 2000
+F 0 "IC4" H 6400 2125 59  0001 L BNN
+F 1 "MCP6002" H 6400 1800 59  0001 L BNN
+F 2 "grids_v02:SO08" H 6300 2000 50  0001 C CNN
+F 3 "" H 6300 2000 50  0001 C CNN
+	2    6300 2000
+	1    0    0    1   
+$EndComp
+$Comp
+L grids_v02-eagle-import:TL072D IC4
+U 3 1 7CB8E2CF
+P 10800 8800
+F 0 "IC4" H 10900 8925 59  0001 L BNN
+F 1 "MCP6002" H 10900 8600 59  0001 L BNN
+F 2 "grids_v02:SO08" H 10800 8800 50  0001 C CNN
+F 3 "" H 10800 8800 50  0001 C CNN
+	3    10800 8800
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:C-USC0603 C15
+U 1 1 BE83EA0E
+P 3200 1200
+F 0 "C15" H 3240 1225 59  0000 L BNN
+F 1 "10n" H 3240 1035 59  0000 L BNN
+F 2 "grids_v02:C0603" H 3200 1200 50  0001 C CNN
+F 3 "" H 3200 1200 50  0001 C CNN
+	1    3200 1200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND073
+U 1 1 9F56204A
+P 1400 1700
+F 0 "#GND073" H 1400 1700 50  0001 C CNN
+F 1 "GND" H 1300 1600 59  0000 L BNN
+F 2 "" H 1400 1700 50  0001 C CNN
+F 3 "" H 1400 1700 50  0001 C CNN
+	1    1400 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND03
+U 1 1 7679BDCC
+P 2100 2100
+F 0 "#GND03" H 2100 2100 50  0001 C CNN
+F 1 "GND" H 2000 2000 59  0000 L BNN
+F 2 "" H 2100 2100 50  0001 C CNN
+F 3 "" H 2100 2100 50  0001 C CNN
+	1    2100 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R32
+U 1 1 8165FAD3
+P 2600 1500
+F 0 "R32" H 2450 1559 59  0000 L BNN
+F 1 "100k" H 2450 1370 59  0000 L BNN
+F 2 "grids_v02:R0603" H 2600 1500 50  0001 C CNN
+F 3 "" H 2600 1500 50  0001 C CNN
+	1    2600 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R27
+U 1 1 0DD4F941
+P 2600 1800
+F 0 "R27" H 2450 1859 59  0000 L BNN
+F 1 "100k" H 2450 1670 59  0000 L BNN
+F 2 "grids_v02:R0603" H 2600 1800 50  0001 C CNN
+F 3 "" H 2600 1800 50  0001 C CNN
+	1    2600 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R13
+U 1 1 4B0D6C7A
+P 3300 3300
+F 0 "R13" H 3150 3359 59  0000 L BNN
+F 1 "100k" H 3150 3170 59  0000 L BNN
+F 2 "grids_v02:R0603" H 3300 3300 50  0001 C CNN
+F 3 "" H 3300 3300 50  0001 C CNN
+	1    3300 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R14
+U 1 1 B042223A
+P 2600 3000
+F 0 "R14" H 2450 3059 59  0000 L BNN
+F 1 "100k" H 2450 2870 59  0000 L BNN
+F 2 "grids_v02:R0603" H 2600 3000 50  0001 C CNN
+F 3 "" H 2600 3000 50  0001 C CNN
+	1    2600 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND011
+U 1 1 19DA8D48
+P 2900 4000
+F 0 "#GND011" H 2900 4000 50  0001 C CNN
+F 1 "GND" H 2800 3900 59  0000 L BNN
+F 2 "" H 2900 4000 50  0001 C CNN
+F 3 "" H 2900 4000 50  0001 C CNN
+	1    2900 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:POT_USVERTICAL_PS4 R42
+U 1 1 0B5DFFA1
+P 1400 3000
+F 0 "R42" V 1200 2900 59  0000 L BNN
+F 1 "10kB" V 1300 2900 59  0000 L BNN
+F 2 "grids_v02:ALPS_POT_VERTICAL_PS4" H 1400 3000 50  0001 C CNN
+F 3 "" H 1400 3000 50  0001 C CNN
+	1    1400 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:PJ301WQP J4
+U 1 1 2A89DB3B
+P 1800 3400
+F 0 "J4" H 1700 3560 59  0000 L BNN
+F 1 "PJ301WQP" H 1800 3400 50  0001 C CNN
+F 2 "grids_v02:WQP_PJ_301BM" H 1800 3400 50  0001 C CNN
+F 3 "" H 1800 3400 50  0001 C CNN
+	1    1800 3400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:C-USC0603 C10
+U 1 1 9CF4227D
+P 3200 3000
+F 0 "C10" H 3240 3025 59  0000 L BNN
+F 1 "10n" H 3240 2835 59  0000 L BNN
+F 2 "grids_v02:C0603" H 3200 3000 50  0001 C CNN
+F 3 "" H 3200 3000 50  0001 C CNN
+	1    3200 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND012
+U 1 1 A5F18D96
+P 1400 3500
+F 0 "#GND012" H 1400 3500 50  0001 C CNN
+F 1 "GND" H 1300 3400 59  0000 L BNN
+F 2 "" H 1400 3500 50  0001 C CNN
+F 3 "" H 1400 3500 50  0001 C CNN
+	1    1400 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND013
+U 1 1 9E3D6951
+P 2100 3900
+F 0 "#GND013" H 2100 3900 50  0001 C CNN
+F 1 "GND" H 2000 3800 59  0000 L BNN
+F 2 "" H 2100 3900 50  0001 C CNN
+F 3 "" H 2100 3900 50  0001 C CNN
+	1    2100 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R15
+U 1 1 14EAF52B
+P 2600 3300
+F 0 "R15" H 2450 3359 59  0000 L BNN
+F 1 "100k" H 2450 3170 59  0000 L BNN
+F 2 "grids_v02:R0603" H 2600 3300 50  0001 C CNN
+F 3 "" H 2600 3300 50  0001 C CNN
+	1    2600 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R22
+U 1 1 DCCE2500
+P 2600 3600
+F 0 "R22" H 2450 3659 59  0000 L BNN
+F 1 "100k" H 2450 3470 59  0000 L BNN
+F 2 "grids_v02:R0603" H 2600 3600 50  0001 C CNN
+F 3 "" H 2600 3600 50  0001 C CNN
+	1    2600 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:TL072D IC3
+U 1 1 640FC223
+P 3300 1900
+F 0 "IC3" H 3400 2025 59  0001 L BNN
+F 1 "MCP6002" H 3400 1700 59  0001 L BNN
+F 2 "grids_v02:SO08" H 3300 1900 50  0001 C CNN
+F 3 "" H 3300 1900 50  0001 C CNN
+	1    3300 1900
+	1    0    0    1   
+$EndComp
+$Comp
+L grids_v02-eagle-import:TL072D IC3
+U 2 1 640FC22F
+P 3300 3700
+F 0 "IC3" H 3400 3825 59  0001 L BNN
+F 1 "MCP6002" H 3400 3500 59  0001 L BNN
+F 2 "grids_v02:SO08" H 3300 3700 50  0001 C CNN
+F 3 "" H 3300 3700 50  0001 C CNN
+	2    3300 3700
+	1    0    0    1   
+$EndComp
+$Comp
+L grids_v02-eagle-import:TL072D IC3
+U 3 1 640FC22B
+P 10400 8800
+F 0 "IC3" H 10500 8925 59  0001 L BNN
+F 1 "MCP6002" H 10500 8600 59  0001 L BNN
+F 2 "grids_v02:SO08" H 10400 8800 50  0001 C CNN
+F 3 "" H 10400 8800 50  0001 C CNN
+	3    10400 8800
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R33
+U 1 1 54FF942E
+P 3300 4900
+F 0 "R33" H 3150 4959 59  0000 L BNN
+F 1 "100k" H 3150 4770 59  0000 L BNN
+F 2 "grids_v02:R0603" H 3300 4900 50  0001 C CNN
+F 3 "" H 3300 4900 50  0001 C CNN
+	1    3300 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R35
+U 1 1 11428D87
+P 2600 4600
+F 0 "R35" H 2450 4659 59  0000 L BNN
+F 1 "100k" H 2450 4470 59  0000 L BNN
+F 2 "grids_v02:R0603" H 2600 4600 50  0001 C CNN
+F 3 "" H 2600 4600 50  0001 C CNN
+	1    2600 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND014
+U 1 1 109F320A
+P 2900 5600
+F 0 "#GND014" H 2900 5600 50  0001 C CNN
+F 1 "GND" H 2800 5500 59  0000 L BNN
+F 2 "" H 2900 5600 50  0001 C CNN
+F 3 "" H 2900 5600 50  0001 C CNN
+	1    2900 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:POT_USVERTICAL_PS R46
+U 1 1 10282036
+P 1400 4600
+F 0 "R46" V 1200 4500 59  0000 L BNN
+F 1 "10kB" V 1300 4500 59  0000 L BNN
+F 2 "grids_v02:ALPS_POT_VERTICAL_PS" H 1400 4600 50  0001 C CNN
+F 3 "" H 1400 4600 50  0001 C CNN
+	1    1400 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:PJ301WQP J11
+U 1 1 7CAC28DC
+P 1800 5000
+F 0 "J11" H 1700 5160 59  0000 L BNN
+F 1 "PJ301WQP" H 1800 5000 50  0001 C CNN
+F 2 "grids_v02:WQP_PJ_301BM" H 1800 5000 50  0001 C CNN
+F 3 "" H 1800 5000 50  0001 C CNN
+	1    1800 5000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:C-USC0603 C16
+U 1 1 C16B0585
+P 3200 4600
+F 0 "C16" H 3240 4625 59  0000 L BNN
+F 1 "10n" H 3240 4435 59  0000 L BNN
+F 2 "grids_v02:C0603" H 3200 4600 50  0001 C CNN
+F 3 "" H 3200 4600 50  0001 C CNN
+	1    3200 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND016
+U 1 1 99D4D269
+P 1400 5100
+F 0 "#GND016" H 1400 5100 50  0001 C CNN
+F 1 "GND" H 1300 5000 59  0000 L BNN
+F 2 "" H 1400 5100 50  0001 C CNN
+F 3 "" H 1400 5100 50  0001 C CNN
+	1    1400 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND017
+U 1 1 0A5A0AC8
+P 2100 5500
+F 0 "#GND017" H 2100 5500 50  0001 C CNN
+F 1 "GND" H 2000 5400 59  0000 L BNN
+F 2 "" H 2100 5500 50  0001 C CNN
+F 3 "" H 2100 5500 50  0001 C CNN
+	1    2100 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R34
+U 1 1 89183EAC
+P 2600 4900
+F 0 "R34" H 2450 4959 59  0000 L BNN
+F 1 "100k" H 2450 4770 59  0000 L BNN
+F 2 "grids_v02:R0603" H 2600 4900 50  0001 C CNN
+F 3 "" H 2600 4900 50  0001 C CNN
+	1    2600 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R28
+U 1 1 B4F19804
+P 2600 5200
+F 0 "R28" H 2450 5259 59  0000 L BNN
+F 1 "100k" H 2450 5070 59  0000 L BNN
+F 2 "grids_v02:R0603" H 2600 5200 50  0001 C CNN
+F 3 "" H 2600 5200 50  0001 C CNN
+	1    2600 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R16
+U 1 1 404B9148
+P 6300 1600
+F 0 "R16" H 6150 1659 59  0000 L BNN
+F 1 "100k" H 6150 1470 59  0000 L BNN
+F 2 "grids_v02:R0603" H 6300 1600 50  0001 C CNN
+F 3 "" H 6300 1600 50  0001 C CNN
+	1    6300 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R17
+U 1 1 4E97A399
+P 5600 1300
+F 0 "R17" H 5450 1359 59  0000 L BNN
+F 1 "100k" H 5450 1170 59  0000 L BNN
+F 2 "grids_v02:R0603" H 5600 1300 50  0001 C CNN
+F 3 "" H 5600 1300 50  0001 C CNN
+	1    5600 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND019
+U 1 1 48B3EBD8
+P 5900 2300
+F 0 "#GND019" H 5900 2300 50  0001 C CNN
+F 1 "GND" H 5800 2200 59  0000 L BNN
+F 2 "" H 5900 2300 50  0001 C CNN
+F 3 "" H 5900 2300 50  0001 C CNN
+	1    5900 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:POT_USVERTICAL_PS R2
+U 1 1 7E8CCE10
+P 4400 1300
+F 0 "R2" V 4200 1200 59  0000 L BNN
+F 1 "10kB" V 4300 1200 59  0000 L BNN
+F 2 "grids_v02:ALPS_POT_VERTICAL_PS" H 4400 1300 50  0001 C CNN
+F 3 "" H 4400 1300 50  0001 C CNN
+	1    4400 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:PJ301WQP J5
+U 1 1 0A445BA9
+P 4800 1700
+F 0 "J5" H 4700 1860 59  0000 L BNN
+F 1 "PJ301WQP" H 4800 1700 50  0001 C CNN
+F 2 "grids_v02:WQP_PJ_301BM" H 4800 1700 50  0001 C CNN
+F 3 "" H 4800 1700 50  0001 C CNN
+	1    4800 1700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:TL072D IC5
+U 1 1 DFA5AD23
+P 6300 3800
+F 0 "IC5" H 6400 3925 59  0001 L BNN
+F 1 "MCP6002" H 6400 3600 59  0001 L BNN
+F 2 "grids_v02:SO08" H 6300 3800 50  0001 C CNN
+F 3 "" H 6300 3800 50  0001 C CNN
+	1    6300 3800
+	1    0    0    1   
+$EndComp
+$Comp
+L grids_v02-eagle-import:TL072D IC5
+U 2 1 DFA5AD2F
+P 6300 5400
+F 0 "IC5" H 6400 5525 59  0001 L BNN
+F 1 "MCP6002" H 6400 5200 59  0001 L BNN
+F 2 "grids_v02:SO08" H 6300 5400 50  0001 C CNN
+F 3 "" H 6300 5400 50  0001 C CNN
+	2    6300 5400
+	1    0    0    1   
+$EndComp
+$Comp
+L grids_v02-eagle-import:TL072D IC5
+U 3 1 DFA5AD2B
+P 10200 8800
+F 0 "IC5" H 10300 8925 59  0001 L BNN
+F 1 "MCP6002" H 10300 8600 59  0001 L BNN
+F 2 "grids_v02:SO08" H 10200 8800 50  0001 C CNN
+F 3 "" H 10200 8800 50  0001 C CNN
+	3    10200 8800
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:C-USC0603 C12
+U 1 1 714954B3
+P 6200 1300
+F 0 "C12" H 6240 1325 59  0000 L BNN
+F 1 "10n" H 6240 1135 59  0000 L BNN
+F 2 "grids_v02:C0603" H 6200 1300 50  0001 C CNN
+F 3 "" H 6200 1300 50  0001 C CNN
+	1    6200 1300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND020
+U 1 1 2DF12463
+P 4400 1800
+F 0 "#GND020" H 4400 1800 50  0001 C CNN
+F 1 "GND" H 4300 1700 59  0000 L BNN
+F 2 "" H 4400 1800 50  0001 C CNN
+F 3 "" H 4400 1800 50  0001 C CNN
+	1    4400 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND021
+U 1 1 CF593DC2
+P 5100 2200
+F 0 "#GND021" H 5100 2200 50  0001 C CNN
+F 1 "GND" H 5000 2100 59  0000 L BNN
+F 2 "" H 5100 2200 50  0001 C CNN
+F 3 "" H 5100 2200 50  0001 C CNN
+	1    5100 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R18
+U 1 1 FFE918C4
+P 5600 1600
+F 0 "R18" H 5450 1659 59  0000 L BNN
+F 1 "100k" H 5450 1470 59  0000 L BNN
+F 2 "grids_v02:R0603" H 5600 1600 50  0001 C CNN
+F 3 "" H 5600 1600 50  0001 C CNN
+	1    5600 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R23
+U 1 1 8DCB80EF
+P 5600 1900
+F 0 "R23" H 5450 1959 59  0000 L BNN
+F 1 "100k" H 5450 1770 59  0000 L BNN
+F 2 "grids_v02:R0603" H 5600 1900 50  0001 C CNN
+F 3 "" H 5600 1900 50  0001 C CNN
+	1    5600 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R36
+U 1 1 8FC82603
+P 6300 3400
+F 0 "R36" H 6150 3459 59  0000 L BNN
+F 1 "100k" H 6150 3270 59  0000 L BNN
+F 2 "grids_v02:R0603" H 6300 3400 50  0001 C CNN
+F 3 "" H 6300 3400 50  0001 C CNN
+	1    6300 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R38
+U 1 1 9DB93B1A
+P 5600 3100
+F 0 "R38" H 5450 3159 59  0000 L BNN
+F 1 "100k" H 5450 2970 59  0000 L BNN
+F 2 "grids_v02:R0603" H 5600 3100 50  0001 C CNN
+F 3 "" H 5600 3100 50  0001 C CNN
+	1    5600 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND023
+U 1 1 C7080FD3
+P 5900 4100
+F 0 "#GND023" H 5900 4100 50  0001 C CNN
+F 1 "GND" H 5800 4000 59  0000 L BNN
+F 2 "" H 5900 4100 50  0001 C CNN
+F 3 "" H 5900 4100 50  0001 C CNN
+	1    5900 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:POT_USVERTICAL_PS R5
+U 1 1 F854E39A
+P 4400 3100
+F 0 "R5" V 4200 3000 59  0000 L BNN
+F 1 "10kB" V 4300 3000 59  0000 L BNN
+F 2 "grids_v02:ALPS_POT_VERTICAL_PS" H 4400 3100 50  0001 C CNN
+F 3 "" H 4400 3100 50  0001 C CNN
+	1    4400 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:PJ301WQP J6
+U 1 1 8E9E0148
+P 4800 3500
+F 0 "J6" H 4700 3660 59  0000 L BNN
+F 1 "PJ301WQP" H 4800 3500 50  0001 C CNN
+F 2 "grids_v02:WQP_PJ_301BM" H 4800 3500 50  0001 C CNN
+F 3 "" H 4800 3500 50  0001 C CNN
+	1    4800 3500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:C-USC0603 C17
+U 1 1 1B5EE35B
+P 6200 3100
+F 0 "C17" H 6240 3125 59  0000 L BNN
+F 1 "10n" H 6240 2935 59  0000 L BNN
+F 2 "grids_v02:C0603" H 6200 3100 50  0001 C CNN
+F 3 "" H 6200 3100 50  0001 C CNN
+	1    6200 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND024
+U 1 1 664B2FAE
+P 4400 3600
+F 0 "#GND024" H 4400 3600 50  0001 C CNN
+F 1 "GND" H 4300 3500 59  0000 L BNN
+F 2 "" H 4400 3600 50  0001 C CNN
+F 3 "" H 4400 3600 50  0001 C CNN
+	1    4400 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND025
+U 1 1 2EE633C3
+P 5100 4000
+F 0 "#GND025" H 5100 4000 50  0001 C CNN
+F 1 "GND" H 5000 3900 59  0000 L BNN
+F 2 "" H 5100 4000 50  0001 C CNN
+F 3 "" H 5100 4000 50  0001 C CNN
+	1    5100 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R37
+U 1 1 B80E1D1D
+P 5600 3400
+F 0 "R37" H 5450 3459 59  0000 L BNN
+F 1 "100k" H 5450 3270 59  0000 L BNN
+F 2 "grids_v02:R0603" H 5600 3400 50  0001 C CNN
+F 3 "" H 5600 3400 50  0001 C CNN
+	1    5600 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R29
+U 1 1 0B6F6D7A
+P 5600 3700
+F 0 "R29" H 5450 3759 59  0000 L BNN
+F 1 "100k" H 5450 3570 59  0000 L BNN
+F 2 "grids_v02:R0603" H 5600 3700 50  0001 C CNN
+F 3 "" H 5600 3700 50  0001 C CNN
+	1    5600 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R19
+U 1 1 FCBADD89
+P 6300 5000
+F 0 "R19" H 6150 5059 59  0000 L BNN
+F 1 "100k" H 6150 4870 59  0000 L BNN
+F 2 "grids_v02:R0603" H 6300 5000 50  0001 C CNN
+F 3 "" H 6300 5000 50  0001 C CNN
+	1    6300 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R20
+U 1 1 3000E3C4
+P 5600 4700
+F 0 "R20" H 5450 4759 59  0000 L BNN
+F 1 "100k" H 5450 4570 59  0000 L BNN
+F 2 "grids_v02:R0603" H 5600 4700 50  0001 C CNN
+F 3 "" H 5600 4700 50  0001 C CNN
+	1    5600 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND026
+U 1 1 9E0685E6
+P 5900 5700
+F 0 "#GND026" H 5900 5700 50  0001 C CNN
+F 1 "GND" H 5800 5600 59  0000 L BNN
+F 2 "" H 5900 5700 50  0001 C CNN
+F 3 "" H 5900 5700 50  0001 C CNN
+	1    5900 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:POT_USVERTICAL_PS R26
+U 1 1 B6DEB600
+P 4400 4700
+F 0 "R26" V 4200 4600 59  0000 L BNN
+F 1 "10kB" V 4300 4600 59  0000 L BNN
+F 2 "grids_v02:ALPS_POT_VERTICAL_PS" H 4400 4700 50  0001 C CNN
+F 3 "" H 4400 4700 50  0001 C CNN
+	1    4400 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:PJ301WQP J7
+U 1 1 1B1E17EB
+P 4800 5100
+F 0 "J7" H 4700 5260 59  0000 L BNN
+F 1 "PJ301WQP" H 4800 5100 50  0001 C CNN
+F 2 "grids_v02:WQP_PJ_301BM" H 4800 5100 50  0001 C CNN
+F 3 "" H 4800 5100 50  0001 C CNN
+	1    4800 5100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:C-USC0603 C14
+U 1 1 5D428A48
+P 6200 4700
+F 0 "C14" H 6240 4725 59  0000 L BNN
+F 1 "10n" H 6240 4535 59  0000 L BNN
+F 2 "grids_v02:C0603" H 6200 4700 50  0001 C CNN
+F 3 "" H 6200 4700 50  0001 C CNN
+	1    6200 4700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND027
+U 1 1 419D9C11
+P 4400 5200
+F 0 "#GND027" H 4400 5200 50  0001 C CNN
+F 1 "GND" H 4300 5100 59  0000 L BNN
+F 2 "" H 4400 5200 50  0001 C CNN
+F 3 "" H 4400 5200 50  0001 C CNN
+	1    4400 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND028
+U 1 1 0345B4CC
+P 5100 5600
+F 0 "#GND028" H 5100 5600 50  0001 C CNN
+F 1 "GND" H 5000 5500 59  0000 L BNN
+F 2 "" H 5100 5600 50  0001 C CNN
+F 3 "" H 5100 5600 50  0001 C CNN
+	1    5100 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R21
+U 1 1 083A2446
+P 5600 5000
+F 0 "R21" H 5450 5059 59  0000 L BNN
+F 1 "100k" H 5450 4870 59  0000 L BNN
+F 2 "grids_v02:R0603" H 5600 5000 50  0001 C CNN
+F 3 "" H 5600 5000 50  0001 C CNN
+	1    5600 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R24
+U 1 1 3BEC5689
+P 5600 5300
+F 0 "R24" H 5450 5359 59  0000 L BNN
+F 1 "100k" H 5450 5170 59  0000 L BNN
+F 2 "grids_v02:R0603" H 5600 5300 50  0001 C CNN
+F 3 "" H 5600 5300 50  0001 C CNN
+	1    5600 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:-NPN-SOT23-BEC Q2
+U 1 1 D52CD3C4
+P 2500 7000
+F 0 "Q2" H 2700 7000 59  0000 L BNN
+F 1 "MMBT3904" H 2700 6900 59  0000 L BNN
+F 2 "grids_v02:SOT23-BEC" H 2500 7000 50  0001 C CNN
+F 3 "" H 2500 7000 50  0001 C CNN
+	1    2500 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND031
+U 1 1 E3033BC1
+P 2600 7400
+F 0 "#GND031" H 2600 7400 50  0001 C CNN
+F 1 "GND" H 2500 7300 59  0000 L BNN
+F 2 "" H 2600 7400 50  0001 C CNN
+F 3 "" H 2600 7400 50  0001 C CNN
+	1    2600 7400
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R7
+U 1 1 6C012852
+P 2600 6400
+F 0 "R7" H 2450 6459 59  0000 L BNN
+F 1 "10k" H 2450 6270 59  0000 L BNN
+F 2 "grids_v02:R0603" H 2600 6400 50  0001 C CNN
+F 3 "" H 2600 6400 50  0001 C CNN
+	1    2600 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R9
+U 1 1 C80C737D
+P 2000 7000
+F 0 "R9" H 1850 7059 59  0000 L BNN
+F 1 "100k" H 1850 6870 59  0000 L BNN
+F 2 "grids_v02:R0603" H 2000 7000 50  0001 C CNN
+F 3 "" H 2000 7000 50  0001 C CNN
+	1    2000 7000
+	-1   0    0    1   
+$EndComp
+$Comp
+L grids_v02-eagle-import:-NPN-SOT23-BEC Q3
+U 1 1 ACDDDF3A
+P 4800 7000
+F 0 "Q3" H 5000 7000 59  0000 L BNN
+F 1 "MMBT3904" H 5000 6900 59  0000 L BNN
+F 2 "grids_v02:SOT23-BEC" H 4800 7000 50  0001 C CNN
+F 3 "" H 4800 7000 50  0001 C CNN
+	1    4800 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND05
+U 1 1 EF27308A
+P 4900 7400
+F 0 "#GND05" H 4900 7400 50  0001 C CNN
+F 1 "GND" H 4800 7300 59  0000 L BNN
+F 2 "" H 4900 7400 50  0001 C CNN
+F 3 "" H 4900 7400 50  0001 C CNN
+	1    4900 7400
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R6
+U 1 1 96E7E6D7
+P 4900 6400
+F 0 "R6" H 4750 6459 59  0000 L BNN
+F 1 "10k" H 4750 6270 59  0000 L BNN
+F 2 "grids_v02:R0603" H 4900 6400 50  0001 C CNN
+F 3 "" H 4900 6400 50  0001 C CNN
+	1    4900 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R11
+U 1 1 29CA273E
+P 4300 7000
+F 0 "R11" H 4150 7059 59  0000 L BNN
+F 1 "100k" H 4150 6870 59  0000 L BNN
+F 2 "grids_v02:R0603" H 4300 7000 50  0001 C CNN
+F 3 "" H 4300 7000 50  0001 C CNN
+	1    4300 7000
+	-1   0    0    1   
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R10
+U 1 1 D74182C5
+P 2300 7300
+F 0 "R10" H 2150 7359 59  0000 L BNN
+F 1 "1M" H 2150 7170 59  0000 L BNN
+F 2 "grids_v02:R0603" H 2300 7300 50  0001 C CNN
+F 3 "" H 2300 7300 50  0001 C CNN
+	1    2300 7300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R12
+U 1 1 D3CAF38E
+P 4600 7300
+F 0 "R12" H 4450 7359 59  0000 L BNN
+F 1 "1M" H 4450 7170 59  0000 L BNN
+F 2 "grids_v02:R0603" H 4600 7300 50  0001 C CNN
+F 3 "" H 4600 7300 50  0001 C CNN
+	1    4600 7300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:PJ301WQP J1
+U 1 1 2CE6A523
+P 1500 7100
+F 0 "J1" H 1400 7260 59  0000 L BNN
+F 1 "PJ301WQP" H 1500 7100 50  0001 C CNN
+F 2 "grids_v02:WQP_PJ_301BM" H 1500 7100 50  0001 C CNN
+F 3 "" H 1500 7100 50  0001 C CNN
+	1    1500 7100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND032
+U 1 1 BDD76BF8
+P 1800 7500
+F 0 "#GND032" H 1800 7500 50  0001 C CNN
+F 1 "GND" H 1700 7400 59  0000 L BNN
+F 2 "" H 1800 7500 50  0001 C CNN
+F 3 "" H 1800 7500 50  0001 C CNN
+	1    1800 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:PJ301WQP J2
+U 1 1 F2D55355
+P 3800 7100
+F 0 "J2" H 3700 7260 59  0000 L BNN
+F 1 "PJ301WQP" H 3800 7100 50  0001 C CNN
+F 2 "grids_v02:WQP_PJ_301BM" H 3800 7100 50  0001 C CNN
+F 3 "" H 3800 7100 50  0001 C CNN
+	1    3800 7100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND037
+U 1 1 7CFE796D
+P 4100 7500
+F 0 "#GND037" H 4100 7500 50  0001 C CNN
+F 1 "GND" H 4000 7400 59  0000 L BNN
+F 2 "" H 4100 7500 50  0001 C CNN
+F 3 "" H 4100 7500 50  0001 C CNN
+	1    4100 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND09
+U 1 1 928DF91D
+P 4600 7700
+F 0 "#GND09" H 4600 7700 50  0001 C CNN
+F 1 "GND" H 4500 7600 59  0000 L BNN
+F 2 "" H 4600 7700 50  0001 C CNN
+F 3 "" H 4600 7700 50  0001 C CNN
+	1    4600 7700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND010
+U 1 1 845C69E3
+P 2300 7700
+F 0 "#GND010" H 2300 7700 50  0001 C CNN
+F 1 "GND" H 2200 7600 59  0000 L BNN
+F 2 "" H 2300 7700 50  0001 C CNN
+F 3 "" H 2300 7700 50  0001 C CNN
+	1    2300 7700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+015
+U 1 1 E802E752
+P 2600 6000
+F 0 "#P+015" H 2600 6000 50  0001 C CNN
+F 1 "+5V" V 2500 5800 59  0000 L BNN
+F 2 "" H 2600 6000 50  0001 C CNN
+F 3 "" H 2600 6000 50  0001 C CNN
+	1    2600 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+016
+U 1 1 483164F1
+P 4900 6000
+F 0 "#P+016" H 4900 6000 50  0001 C CNN
+F 1 "+5V" V 4800 5800 59  0000 L BNN
+F 2 "" H 4900 6000 50  0001 C CNN
+F 3 "" H 4900 6000 50  0001 C CNN
+	1    4900 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+01
+U 1 1 BCDF72C5
+P 4400 800
+F 0 "#P+01" H 4400 800 50  0001 C CNN
+F 1 "+5V" V 4300 600 59  0000 L BNN
+F 2 "" H 4400 800 50  0001 C CNN
+F 3 "" H 4400 800 50  0001 C CNN
+	1    4400 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+05
+U 1 1 33ACA7EC
+P 1400 700
+F 0 "#P+05" H 1400 700 50  0001 C CNN
+F 1 "+5V" V 1300 500 59  0000 L BNN
+F 2 "" H 1400 700 50  0001 C CNN
+F 3 "" H 1400 700 50  0001 C CNN
+	1    1400 700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+06
+U 1 1 B0F39303
+P 1400 2500
+F 0 "#P+06" H 1400 2500 50  0001 C CNN
+F 1 "+5V" V 1300 2300 59  0000 L BNN
+F 2 "" H 1400 2500 50  0001 C CNN
+F 3 "" H 1400 2500 50  0001 C CNN
+	1    1400 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+07
+U 1 1 BC2DCEA9
+P 1400 4100
+F 0 "#P+07" H 1400 4100 50  0001 C CNN
+F 1 "+5V" V 1300 3900 59  0000 L BNN
+F 2 "" H 1400 4100 50  0001 C CNN
+F 3 "" H 1400 4100 50  0001 C CNN
+	1    1400 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+010
+U 1 1 99CC31BE
+P 4400 4200
+F 0 "#P+010" H 4400 4200 50  0001 C CNN
+F 1 "+5V" V 4300 4000 59  0000 L BNN
+F 2 "" H 4400 4200 50  0001 C CNN
+F 3 "" H 4400 4200 50  0001 C CNN
+	1    4400 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+02
+U 1 1 339DE9D3
+P 4400 2600
+F 0 "#P+02" H 4400 2600 50  0001 C CNN
+F 1 "+5V" V 4300 2400 59  0000 L BNN
+F 2 "" H 4400 2600 50  0001 C CNN
+F 3 "" H 4400 2600 50  0001 C CNN
+	1    4400 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:C-USC0603 C6
+U 1 1 FE64C8E2
+P 8100 3600
+F 0 "C6" H 8140 3625 59  0000 L BNN
+F 1 "100n" H 8140 3435 59  0000 L BNN
+F 2 "grids_v02:C0603" H 8100 3600 50  0001 C CNN
+F 3 "" H 8100 3600 50  0001 C CNN
+	1    8100 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:WE-CBF_0603 L1
+U 1 1 4CAB314C
+P 7800 3500
+F 0 "L1" H 7650 3700 59  0000 L BNN
+F 1 "WE-CBF_0603" H 7650 3450 59  0000 L BNN
+F 2 "grids_v02:0603" H 7800 3500 50  0001 C CNN
+F 3 "" H 7800 3500 50  0001 C CNN
+	1    7800 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+03
+U 1 1 00F05DF6
+P 7500 3200
+F 0 "#P+03" H 7500 3200 50  0001 C CNN
+F 1 "+5V" V 7400 3000 59  0000 L BNN
+F 2 "" H 7500 3200 50  0001 C CNN
+F 3 "" H 7500 3200 50  0001 C CNN
+	1    7500 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND022
+U 1 1 FB1CD9CF
+P 8100 4000
+F 0 "#GND022" H 8100 4000 50  0001 C CNN
+F 1 "GND" H 8000 3900 59  0000 L BNN
+F 2 "" H 8100 4000 50  0001 C CNN
+F 3 "" H 8100 4000 50  0001 C CNN
+	1    8100 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:M03PTH JP2
+U 1 1 FA93C76E
+P 12100 5100
+F 0 "JP2" H 12000 5330 59  0000 L BNN
+F 1 "M03PTH" H 12000 4800 59  0000 L BNN
+F 2 "grids_v02:1X03" H 12100 5100 50  0001 C CNN
+F 3 "" H 12100 5100 50  0001 C CNN
+	1    12100 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+019
+U 1 1 A2BCAE6A
+P 12500 4800
+F 0 "#P+019" H 12500 4800 50  0001 C CNN
+F 1 "+5V" V 12400 4600 59  0000 L BNN
+F 2 "" H 12500 4800 50  0001 C CNN
+F 3 "" H 12500 4800 50  0001 C CNN
+	1    12500 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND043
+U 1 1 C96F3BDD
+P 13000 5300
+F 0 "#GND043" H 13000 5300 50  0001 C CNN
+F 1 "GND" H 12900 5200 59  0000 L BNN
+F 2 "" H 13000 5300 50  0001 C CNN
+F 3 "" H 13000 5300 50  0001 C CNN
+	1    13000 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND02
+U 1 1 13A376EC
+P 8500 9200
+F 0 "#GND02" H 8500 9200 50  0001 C CNN
+F 1 "GND" H 8400 9100 59  0000 L BNN
+F 2 "" H 8500 9200 50  0001 C CNN
+F 3 "" H 8500 9200 50  0001 C CNN
+	1    8500 9200
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:CPOL-USC C1
+U 1 1 C20FC76C
+P 8500 8700
+F 0 "C1" H 8540 8725 59  0000 L BNN
+F 1 "22u" H 8540 8535 59  0000 L BNN
+F 2 "grids_v02:PANASONIC_C" H 8500 8700 50  0001 C CNN
+F 3 "" H 8500 8700 50  0001 C CNN
+	1    8500 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+09
+U 1 1 540F2EFD
+P 8500 8300
+F 0 "#P+09" H 8500 8300 50  0001 C CNN
+F 1 "+5V" V 8400 8100 59  0000 L BNN
+F 2 "" H 8500 8300 50  0001 C CNN
+F 3 "" H 8500 8300 50  0001 C CNN
+	1    8500 8300
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:C-USC0603 C3
+U 1 1 0AE61553
+P 9800 8700
+F 0 "C3" H 9840 8725 59  0000 L BNN
+F 1 "100n" H 9840 8535 59  0000 L BNN
+F 2 "grids_v02:C0603" H 9800 8700 50  0001 C CNN
+F 3 "" H 9800 8700 50  0001 C CNN
+	1    9800 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND064
+U 1 1 6C013DC9
+P 9800 9100
+F 0 "#GND064" H 9800 9100 50  0001 C CNN
+F 1 "GND" H 9700 9000 59  0000 L BNN
+F 2 "" H 9800 9100 50  0001 C CNN
+F 3 "" H 9800 9100 50  0001 C CNN
+	1    9800 9100
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:C-USC0603 C13
+U 1 1 9AFB8C1C
+P 11000 8700
+F 0 "C13" H 11040 8725 59  0000 L BNN
+F 1 "100n" H 11040 8535 59  0000 L BNN
+F 2 "grids_v02:C0603" H 11000 8700 50  0001 C CNN
+F 3 "" H 11000 8700 50  0001 C CNN
+	1    11000 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND039
+U 1 1 D092AC48
+P 10900 9400
+F 0 "#GND039" H 10900 9400 50  0001 C CNN
+F 1 "GND" H 10800 9300 59  0000 L BNN
+F 2 "" H 10900 9400 50  0001 C CNN
+F 3 "" H 10900 9400 50  0001 C CNN
+	1    10900 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:C-USC0603 C18
+U 1 1 52B654BE
+P 11300 8700
+F 0 "C18" H 11340 8725 59  0000 L BNN
+F 1 "100n" H 11340 8535 59  0000 L BNN
+F 2 "grids_v02:C0603" H 11300 8700 50  0001 C CNN
+F 3 "" H 11300 8700 50  0001 C CNN
+	1    11300 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+04
+U 1 1 A7FDB2D8
+P 10900 8200
+F 0 "#P+04" H 10900 8200 50  0001 C CNN
+F 1 "+5V" V 10800 8000 59  0000 L BNN
+F 2 "" H 10900 8200 50  0001 C CNN
+F 3 "" H 10900 8200 50  0001 C CNN
+	1    10900 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:C-USC0603 C11
+U 1 1 59663956
+P 11600 8700
+F 0 "C11" H 11640 8725 59  0000 L BNN
+F 1 "100n" H 11640 8535 59  0000 L BNN
+F 2 "grids_v02:C0603" H 11600 8700 50  0001 C CNN
+F 3 "" H 11600 8700 50  0001 C CNN
+	1    11600 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:C-USC0603 C9
+U 1 1 27EB63CA
+P 11900 8700
+F 0 "C9" H 11940 8725 59  0000 L BNN
+F 1 "100n" H 11940 8535 59  0000 L BNN
+F 2 "grids_v02:C0603" H 11900 8700 50  0001 C CNN
+F 3 "" H 11900 8700 50  0001 C CNN
+	1    11900 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:+5V #P+018
+U 1 1 21F8E9C7
+P 9800 8400
+F 0 "#P+018" H 9800 8400 50  0001 C CNN
+F 1 "+5V" V 9700 8200 59  0000 L BNN
+F 2 "" H 9800 8400 50  0001 C CNN
+F 3 "" H 9800 8400 50  0001 C CNN
+	1    9800 8400
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:C-USC0603 C5
+U 1 1 F9108C4C
+P 9300 8700
+F 0 "C5" H 9340 8725 59  0000 L BNN
+F 1 "100n" H 9340 8535 59  0000 L BNN
+F 2 "grids_v02:C0603" H 9300 8700 50  0001 C CNN
+F 3 "" H 9300 8700 50  0001 C CNN
+	1    9300 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND04
+U 1 1 D896219B
+P 9300 9100
+F 0 "#GND04" H 9300 9100 50  0001 C CNN
+F 1 "GND" H 9200 9000 59  0000 L BNN
+F 2 "" H 9300 9100 50  0001 C CNN
+F 3 "" H 9300 9100 50  0001 C CNN
+	1    9300 9100
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:LM4041DBZ IC2
+U 1 1 BCFA7FCC
+P 12900 9000
+F 0 "IC2" H 13010 9075 59  0000 L BNN
+F 1 "LM4040 5.0V" H 13010 8965 59  0000 L BNN
+F 2 "grids_v02:DBZ_R-PDSO-G3" H 12900 9000 50  0001 C CNN
+F 3 "" H 12900 9000 50  0001 C CNN
+	1    12900 9000
+	-1   0    0    1   
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND082
+U 1 1 91F00AFF
+P 12900 9400
+F 0 "#GND082" H 12900 9400 50  0001 C CNN
+F 1 "GND" H 12800 9300 59  0000 L BNN
+F 2 "" H 12900 9400 50  0001 C CNN
+F 3 "" H 12900 9400 50  0001 C CNN
+	1    12900 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:R-US_R0603 R8
+U 1 1 41D07F0A
+P 12900 8500
+F 0 "R8" H 12750 8559 59  0000 L BNN
+F 1 "10k" H 12750 8370 59  0000 L BNN
+F 2 "grids_v02:R0603" H 12900 8500 50  0001 C CNN
+F 3 "" H 12900 8500 50  0001 C CNN
+	1    12900 8500
+	0    1    1    0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:VEE #SUPPLY010
+U 1 1 AC3081B0
+P 12900 8100
+F 0 "#SUPPLY010" H 12900 8100 50  0001 C CNN
+F 1 "VEE" H 12825 8225 59  0000 L BNN
+F 2 "" H 12900 8100 50  0001 C CNN
+F 3 "" H 12900 8100 50  0001 C CNN
+	1    12900 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:C-USC0603 C8
+U 1 1 23B5B5E4
+P 13200 9000
+F 0 "C8" H 13240 9025 59  0000 L BNN
+F 1 "470n" H 13240 8835 59  0000 L BNN
+F 2 "grids_v02:C0603" H 13200 9000 50  0001 C CNN
+F 3 "" H 13200 9000 50  0001 C CNN
+	1    13200 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND085
+U 1 1 247FD0CC
+P 13200 9400
+F 0 "#GND085" H 13200 9400 50  0001 C CNN
+F 1 "GND" H 13100 9300 59  0000 L BNN
+F 2 "" H 13200 9400 50  0001 C CNN
+F 3 "" H 13200 9400 50  0001 C CNN
+	1    13200 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:C-USC0603 C4
+U 1 1 284EA6E9
+P 8100 8700
+F 0 "C4" H 8140 8725 59  0000 L BNN
+F 1 "100n" H 8140 8535 59  0000 L BNN
+F 2 "grids_v02:C0603" H 8100 8700 50  0001 C CNN
+F 3 "" H 8100 8700 50  0001 C CNN
+	1    8100 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:M03PTH JP1
+U 1 1 2F430EF2
+P 13400 4700
+F 0 "JP1" H 13300 4930 59  0000 L BNN
+F 1 "M03PTH" H 13300 4400 59  0000 L BNN
+F 2 "grids_v02:1X03" H 13400 4700 50  0001 C CNN
+F 3 "" H 13400 4700 50  0001 C CNN
+	1    13400 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND08
+U 1 1 DF24F9E8
+P 13800 5000
+F 0 "#GND08" H 13800 5000 50  0001 C CNN
+F 1 "GND" H 13700 4900 59  0000 L BNN
+F 2 "" H 13800 5000 50  0001 C CNN
+F 3 "" H 13800 5000 50  0001 C CNN
+	1    13800 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:LP4OA1PBCT SW1
+U 1 1 E9E31E47
+P 4200 8600
+F 0 "SW1" V 3875 8525 59  0000 L BNN
+F 1 "LP4OA1PBCT" V 3975 8700 59  0000 L BNN
+F 2 "grids_v02:LP4OA1PBCT" H 4200 8600 50  0001 C CNN
+F 3 "" H 4200 8600 50  0001 C CNN
+	1    4200 8600
+	0    1    1    0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:LP4OA1PBCT SW1
+U 2 1 E9E31E4B
+P 14100 1900
+F 0 "SW1" V 14240 1820 59  0000 L BNN
+F 1 "LP4OA1PBCT" V 14325 1820 59  0000 L BNN
+F 2 "grids_v02:LP4OA1PBCT" H 14100 1900 50  0001 C CNN
+F 3 "" H 14100 1900 50  0001 C CNN
+	2    14100 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND030
+U 1 1 E66C1352
+P 4500 9300
+F 0 "#GND030" H 4500 9300 50  0001 C CNN
+F 1 "GND" H 4400 9200 59  0000 L BNN
+F 2 "" H 4500 9300 50  0001 C CNN
+F 3 "" H 4500 9300 50  0001 C CNN
+	1    4500 9300
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND01
+U 1 1 DB8695AC
+P 8200 7600
+F 0 "#GND01" H 8200 7600 50  0001 C CNN
+F 1 "GND" H 8100 7500 59  0000 L BNN
+F 2 "" H 8200 7600 50  0001 C CNN
+F 3 "" H 8200 7600 50  0001 C CNN
+	1    8200 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:VEE #SUPPLY01
+U 1 1 E46721A6
+P 7100 7600
+F 0 "#SUPPLY01" H 7100 7600 50  0001 C CNN
+F 1 "VEE" H 7025 7725 59  0000 L BNN
+F 2 "" H 7100 7600 50  0001 C CNN
+F 3 "" H 7100 7600 50  0001 C CNN
+	1    7100 7600
+	-1   0    0    1   
+$EndComp
+$Comp
+L grids_v02-eagle-import:DIODE-SOD123 D1
+U 1 1 453B99A4
+P 7000 7100
+F 0 "D1" H 7100 7119 59  0001 L BNN
+F 1 "1N5819HW" H 7100 7009 59  0001 L BNN
+F 2 "grids_v02:SOD123" H 7000 7100 50  0001 C CNN
+F 3 "" H 7000 7100 50  0001 C CNN
+	1    7000 7100
+	-1   0    0    1   
+$EndComp
+$Comp
+L grids_v02-eagle-import:M05X2PTH J16
+U 1 1 BFD7166C
+P 7500 7300
+F 0 "J16" H 7400 7630 59  0000 L BNN
+F 1 "M05X2PTH" H 7400 6900 59  0000 L BNN
+F 2 "grids_v02:AVR_ICSP" H 7500 7300 50  0001 C CNN
+F 3 "" H 7500 7300 50  0001 C CNN
+	1    7500 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND044
+U 1 1 1165F8F0
+P 7500 9200
+F 0 "#GND044" H 7500 9200 50  0001 C CNN
+F 1 "GND" H 7400 9100 59  0000 L BNN
+F 2 "" H 7500 9200 50  0001 C CNN
+F 3 "" H 7500 9200 50  0001 C CNN
+	1    7500 9200
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:REG1117 IC7
+U 1 1 7B9E1829
+P 7500 8500
+F 0 "IC7" H 7200 8725 59  0000 L BNN
+F 1 "LM1117-5.0" H 7300 8600 59  0000 L BNN
+F 2 "grids_v02:SOT223" H 7500 8500 50  0001 C CNN
+F 3 "" H 7500 8500 50  0001 C CNN
+	1    7500 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:VCC #P+08
+U 1 1 B54CCCBB
+P 6900 8400
+F 0 "#P+08" H 6900 8400 50  0001 C CNN
+F 1 "VCC" H 6860 8540 59  0000 L BNN
+F 2 "" H 6900 8400 50  0001 C CNN
+F 3 "" H 6900 8400 50  0001 C CNN
+	1    6900 8400
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:VCC #P+020
+U 1 1 0B44AC3A
+P 6800 7000
+F 0 "#P+020" H 6800 7000 50  0001 C CNN
+F 1 "VCC" H 6760 7140 59  0000 L BNN
+F 2 "" H 6800 7000 50  0001 C CNN
+F 3 "" H 6800 7000 50  0001 C CNN
+	1    6800 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:CPOL-USC C19
+U 1 1 BE0BA0B0
+P 6900 8700
+F 0 "C19" H 6940 8725 59  0000 L BNN
+F 1 "22u" H 6940 8535 59  0000 L BNN
+F 2 "grids_v02:PANASONIC_C" H 6900 8700 50  0001 C CNN
+F 3 "" H 6900 8700 50  0001 C CNN
+	1    6900 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L grids_v02-eagle-import:GND #GND045
+U 1 1 9E0B3A99
+P 6900 9200
+F 0 "#GND045" H 6900 9200 50  0001 C CNN
+F 1 "GND" H 6800 9100 59  0000 L BNN
+F 2 "" H 6900 9200 50  0001 C CNN
+F 3 "" H 6900 9200 50  0001 C CNN
+	1    6900 9200
+	1    0    0    -1  
+$EndComp
+Text Notes 12300 9800 0    85   ~ 0
+cc-by-sa
+Text Notes 14500 9800 0    85   ~ 0
+Digital section
+Text Notes 12300 10000 0    85   ~ 0
+Émilie Gillet
+Text Notes 12300 10200 0    85   ~ 0
+emilie.o.gillet@gmail.com
+$EndSCHEMATC
