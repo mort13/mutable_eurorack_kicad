@@ -4,6 +4,8 @@ Forked from pichenettes' version and identical except:
 - Eagle brd and sch files converted to XML (making possible import into KiCad)
 - For some modules, KiCad versions have been added
 
+I have updated this repo to reflect upstream changes, but I am no longer able to convert the Eagle files, so not all are available as XML.
+
 * [Blades](http://mutable-instruments.net/modules/blades): Dual multimode filter.
 * [Blinds](http://mutable-instruments.net/modules/blinds): Quad VC-polarizer.
 * [Braids](http://mutable-instruments.net/modules/braids): Macro-oscillator.
