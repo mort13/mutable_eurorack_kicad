@@ -1,0 +1,99 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 6eb2b18b-0f39-4def-86f8-309f666a0c29)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 228.6 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 2954d3a2-20ef-457b-b369-256c2815520d)
+    (property "Sheetname" "veils_v40_5" (at 228.6 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "veils_v40_5.kicad_sch" (at 228.6 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "veils_v40"
+        (path "/6eb2b18b-0f39-4def-86f8-309f666a0c29" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 76.2 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 561b7374-3afa-42b1-b234-f20f3f0e253b)
+    (property "Sheetname" "veils_v40_2" (at 76.2 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "veils_v40_2.kicad_sch" (at 76.2 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "veils_v40"
+        (path "/6eb2b18b-0f39-4def-86f8-309f666a0c29" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 127 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 95a3882a-827c-467e-af43-69b4e73865a4)
+    (property "Sheetname" "veils_v40_3" (at 127 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "veils_v40_3.kicad_sch" (at 127 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "veils_v40"
+        (path "/6eb2b18b-0f39-4def-86f8-309f666a0c29" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 25.4 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a87525a7-dffd-47c5-9f32-6aa31c617200)
+    (property "Sheetname" "veils_v40_1" (at 25.4 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "veils_v40_1.kicad_sch" (at 25.4 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "veils_v40"
+        (path "/6eb2b18b-0f39-4def-86f8-309f666a0c29" (page "1"))
+      )
+    )
+  )
+
+  (sheet (at 177.8 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid e48f4248-9f80-4cf2-8f99-1865fae98970)
+    (property "Sheetname" "veils_v40_4" (at 177.8 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "veils_v40_4.kicad_sch" (at 177.8 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "veils_v40"
+        (path "/6eb2b18b-0f39-4def-86f8-309f666a0c29" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

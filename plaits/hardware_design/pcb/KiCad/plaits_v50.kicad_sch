@@ -1,0 +1,99 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 2c7d2c72-fbf8-4794-8e8d-6231460be399)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 228.6 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 19f2359e-e7a6-41cc-8950-17699d40eef0)
+    (property "Sheetname" "plaits_v50_5" (at 228.6 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "plaits_v50_5.kicad_sch" (at 228.6 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "plaits_v50"
+        (path "/2c7d2c72-fbf8-4794-8e8d-6231460be399" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 127 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 5b7b0ff3-3c14-495c-86f1-1b83ad8f2da5)
+    (property "Sheetname" "plaits_v50_3" (at 127 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "plaits_v50_3.kicad_sch" (at 127 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "plaits_v50"
+        (path "/2c7d2c72-fbf8-4794-8e8d-6231460be399" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 25.4 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6828ed9a-d7c8-4fb1-b509-d93b21541a80)
+    (property "Sheetname" "plaits_v50_1" (at 25.4 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "plaits_v50_1.kicad_sch" (at 25.4 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "plaits_v50"
+        (path "/2c7d2c72-fbf8-4794-8e8d-6231460be399" (page "1"))
+      )
+    )
+  )
+
+  (sheet (at 76.2 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6d8752a8-c1af-41fc-a816-7d6373770300)
+    (property "Sheetname" "plaits_v50_2" (at 76.2 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "plaits_v50_2.kicad_sch" (at 76.2 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "plaits_v50"
+        (path "/2c7d2c72-fbf8-4794-8e8d-6231460be399" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 177.8 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid fe3a1d3f-f30a-45a8-b3a3-cbfa1975ff37)
+    (property "Sheetname" "plaits_v50_4" (at 177.8 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "plaits_v50_4.kicad_sch" (at 177.8 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "plaits_v50"
+        (path "/2c7d2c72-fbf8-4794-8e8d-6231460be399" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
