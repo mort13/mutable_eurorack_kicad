@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "frames_v03-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/frames_v03-eagle-import.kicad_sym")(options "")(descr ""))
+)

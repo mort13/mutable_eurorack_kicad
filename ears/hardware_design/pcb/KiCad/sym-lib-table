@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "ears_v40-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/ears_v40-eagle-import.kicad_sym")(options "")(descr ""))
+)

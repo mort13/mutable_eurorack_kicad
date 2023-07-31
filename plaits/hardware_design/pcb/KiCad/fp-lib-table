@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "plaits_v50")(type "KiCad")(uri "$(KIPRJMOD)/plaits_v50.pretty")(options "")(descr ""))
+)

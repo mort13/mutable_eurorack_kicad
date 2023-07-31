@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "plaits_v50-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/plaits_v50-eagle-import.kicad_sym")(options "")(descr ""))
+)

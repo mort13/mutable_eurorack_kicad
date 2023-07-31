@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "veils_v40")(type "KiCad")(uri "$(KIPRJMOD)/veils_v40.pretty")(options "")(descr ""))
+)

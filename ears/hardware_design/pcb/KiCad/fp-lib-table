@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ears_v40")(type "KiCad")(uri "$(KIPRJMOD)/ears_v40.pretty")(options "")(descr ""))
+)
